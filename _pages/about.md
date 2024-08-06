@@ -18,7 +18,7 @@ ABOUT ME
 ======
 Dr. Tingjun Lei is currently an Assistant Professor in the School of Electrical Engineering and Computer Science at University of North Dakota. He received his Ph. D. degree in Electrical and Computer Engineering from Mississippi State University in 2023 under Dr. Chaomin Luo. His research spans across multiple areas, including bio-inspired artificial intelligence (AI), robotics and autonomous systems, optimization and evolutionary computation, human-autonomy teaming (HAT), intelligent transportation systems, and applied machine learning.
 
-<span class="red"><b>Multiple Ph.D. Assistantship Positions are Available:</b></span>\
+<strong style="color: red;">Multiple Ph.D. Assistantship Positions are Available:</strong>
 Several new fully funded Ph.D. positions are available in the School of Electrical Engineering and Computer Science at University of North Dakota (Grand Forks, ND). Highly motivated students for research with a strong mathematical background and proficiency in computer programming/simulation are welcome. Please contact Dr. Lei for more information (Interested students are encouraged to send your resume and transcripts with your TOEFL and GRE scores).
 
 
