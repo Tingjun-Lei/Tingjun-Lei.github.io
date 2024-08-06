@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Tingjun Lei"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Tingjun Lei"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Assistant Professor at School of Electrical Engineering and Computer Science, University of North Dakota"
+  employer         : "University of North Dakota"
+  location         : "Grand Forks, ND"
+  uri              : "https://campus.und.edu/directory/tingjun.lei"
+  email            : "Tingjun dot Lei at UND dot edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
