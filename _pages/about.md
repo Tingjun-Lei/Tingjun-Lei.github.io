@@ -29,7 +29,7 @@ NEWS
 
 - [06/2024] Our paper "Enhancing Student Learning in Robot Path Planning Optimization through Graph-Based Methods" has received the <b>Best Paper Award </b> of the Electrical and Computer Engineering Division at the <i>2024 ASEE Annual Conference</i>!
 
-- [05/2024] Our paper “Optimal Multi-target Navigation via Graph-based Algorithms in Complex Environments” has been accepted by <i>IEEE ISIE 2024</i>!
+- [05/2024] Our paper “Optimal Multi-target Navigation via Graph-based Algorithms in Complex Environments” has been accepted by <b>IEEE ISIE 2024</b>!
 
 - [04/2024] Our four papers have been accepted by <i>SPIE 2024</i>!
 
@@ -38,6 +38,10 @@ NEWS
 - [03/2024] Our four papers have been accepted by <i>ASEE 2024</i>!
 
 - [02/2024] Our paper “Enhancing Human-Robot Cohesion through HAT Methods: A Crowd-Avoidance Model for Safety Aware Navigation” has been accepted by <b>IEEE ICHMS 2024</b>!
+
+- [02/2024] Tingjun was invited to talk at <a href="https://www.ece.msstate.edu/ece-research-seminar-with-dr-lei-friday-february-23-12-1pm/" target="_blank">ECE Research Seminar</a> at Mississippi State University!
+
+- [02/2024] Our paper “Informed Sampling Space Driven Robot Informative Path Planning” has been accepted by <strong style="color: black;">Robotics and Autonomous Systems </strong>! 
 
 
 Site-wide configuration
