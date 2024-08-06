@@ -1,30 +1,32 @@
 ---
 layout: archive
-title: "Publications"
+title: "SELECTED PUBLICATION LIST"
 permalink: /publications/
 author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can find my articles on my <a href="{{https://scholar.google.com/citations?user=eJ5u6r0AAAAJ&hl=en}}">Google Scholar</a>.</div>
+  <div class="wordwrap">You can find my papers on my <a href="{{https://scholar.google.com/citations?user=eJ5u6r0AAAAJ&hl=en}}">Google Scholar</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
 
-<li> 
-<b>On the Problems of Drone Formation and Light Shows [ <a href="https://doi.org/10.1109/TCE.2024.3421516" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/381908143_On_the_Problems_of_Drone_Formation_and_Light_Shows" target="_blank">ResearchGate</a>  ]</b> <br>
+Journals
+======
+1. 
+<b>On the Problems of Drone Formation and Light Shows\ [ <a href="https://doi.org/10.1109/TCE.2024.3421516" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/381908143_On_the_Problems_of_Drone_Formation_and_Light_Shows" target="_blank">ResearchGate</a>  ]</b>\
 G.E. Jan, <i><b>Tingjun Lei</b></i>, C.-C. Sun, Z.-Y. You and C. Luo, 
-<i>IEEE Transactions on Consumer Electronics</i>, July. 2024, doi:10.1109/TCE.2024.3421516. <br>
-</li>
+<i>IEEE Transactions on Consumer Electronics</i>, July. 2024, doi:10.1109/TCE.2024.3421516.
 
 
-<li> 
+
+1. 
 <b>Digital Twin-Embedded Multi-Objective Autonomous Vehicle Navigation Approach as Applied in
-Infrastructure Construction [ <a href="https://doi.org/10.1049/csy2.12110" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/379118123_Digital_twin-based_multi-objective_autonomous_vehicle_navigation_approach_as_applied_in_infrastructure_construction" target="_blank">ResearchGate</a>  ]</b> <br>
+Infrastructure Construction\ [ <a href="https://doi.org/10.1049/csy2.12110" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/379118123_Digital_twin-based_multi-objective_autonomous_vehicle_navigation_approach_as_applied_in_infrastructure_construction" target="_blank">ResearchGate</a>  ]</b>\
 <i><b>Tingjun Lei</b></i>, T. Sellers, C. Luo, Lei Cao, and Z. Bi, 
-<i>IET Cyber-Systems and Robotics</i>, Mar. 2024, doi:10.1049/csy2.12110. <br>
-</li>
+<i>IET Cyber-Systems and Robotics</i>, Mar. 2024, doi:10.1049/csy2.12110.
+
 
 <li> 
 <b>Informed Sampling Space Driven Robot Informative Path Planning [ <a href="https://doi.org/10.1016/j.robot.2024.104656" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/377957405_Informed_Sampling_Space_Driven_Robot_Informative_Path_Planning" target="_blank">ResearchGate</a>  ]</b> <br>
