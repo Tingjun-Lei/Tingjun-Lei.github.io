@@ -7,31 +7,38 @@ redirect_from:
   - /about.html
 ---
 
-
-[Assistant Professor](https://campus.und.edu/directory/tingjun.lei)
-
-[School of Electrical Engineering and Computer Science](https://engineering.und.edu/academics/electrical-and-computer-science/index.html)
-
-[University of North Dakota](https://und.edu/)
-
+[Assistant Professor](https://campus.und.edu/directory/tingjun.lei)\
+[School of Electrical Engineering and Computer Science](https://engineering.und.edu/academics/electrical-and-computer-science/index.html)\
+[University of North Dakota](https://und.edu/)\
 Email: Tingjun dot Lei at UND dot edu 
 
 
 
-A data-driven personal website
+ABOUT ME
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Dr. Tingjun Lei is currently an Assistant Professor in the School of Electrical Engineering and Computer Science at University of North Dakota. He received his Ph. D. degree in Electrical and Computer Engineering from Mississippi State University in 2023 under Dr. Chaomin Luo. His research spans across multiple areas, including bio-inspired artificial intelligence (AI), robotics and autonomous systems, optimization and evolutionary computation, human-autonomy teaming (HAT), intelligent transportation systems, and applied machine learning.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<b>Multiple Ph.D. Assistantship Positions are Available:</b>\
+Several new fully funded Ph.D. positions are available in the School of Electrical Engineering and Computer Science at University of North Dakota (Grand Forks, ND). Highly motivated students for research with a strong mathematical background and proficiency in computer programming/simulation are welcome. Please contact Dr. Lei for more information (Interested students are encouraged to send your resume and transcripts with your TOEFL and GRE scores).
 
-Getting started
+
+
+NEWS
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- [06/2024] Our paper "On the Problems of Drone Formation and Light Shows" has been accepted by <b>IEEE Transactions on Consumer Electronics</b>!
+
+- [06/2024] Our paper "Enhancing Student Learning in Robot Path Planning Optimization through Graph-Based Methods" has received the <b>Best Paper Award </b> of the Electrical and Computer Engineering Division at the <i>2024 ASEE Annual Conference</i>!
+
+- [05/2024] Our paper “Optimal Multi-target Navigation via Graph-based Algorithms in Complex Environments” has been accepted by <i>IEEE ISIE 2024</i>!
+
+- [04/2024] Our four papers have been accepted by <i>SPIE 2024</i>!
+
+- [04/2024] Tingjun organized Special Session: "Biologically Inspired Intelligence for Mechatronics and Robotics" in <i>ICSI' 2024</i>!  
+
+- [03/2024] Our four papers have been accepted by <i>ASEE 2024</i>!
+
+- [02/2024] Our paper “Enhancing Human-Robot Cohesion through HAT Methods: A Crowd-Avoidance Model for Safety Aware Navigation” has been accepted by <b>IEEE ICHMS 2024</b>!
+
 
 Site-wide configuration
 ------
