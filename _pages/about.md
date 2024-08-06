@@ -66,29 +66,32 @@ NEWS
 
 - [05/2023] Our paper “A Convex Optimization Approach to Multi-Robot Task Allocation and Path Planning” has been accepted by <i>Sensors</i>! 
 
-- [05/2023] Our three papers have been accepted by <i>SPIE 2023</i>! 
+- [02/2023] Tingjun received <span style="font-weight: bold;">2022-2023 ECE Best Graduate Researcher Award</span>!
+
+- [10/2022] Our paper “An Informative Planning-Based Multi-Layer Robot Navigation System as Applied in A Poultry Barn” has been <strong style="color: black;">selected and featured as cover paper</strong> by <i>Intelligence and Robotics</i>!
+
+- [10/2022] Tingjun named Oral Session Winner in Fall 2022 Graduate Research Symposium! 
+
+- [10/2022] Tingjun received Best Presentation Award in 2022-2023 ECE Research Symposium!
+
+- [09/2022] Our paper “Human-Autonomy Teaming-Based Robot Informative Path Planning and Mapping Algorithms with Tree Search Mechanism” has been accepted by <b>IEEE ICHMS 2022</b>!
+
+- [08/2022] Our paper “An Informative Planning-Based Multi-Layer Robot Navigation System as Applied in A Poultry Barn”has been accepted by <i>Intelligence and Robotics</i>! 
+
+- [08/2022] Our paper “A Node Selection Algorithm to Graph-Based Multi-Waypoint Optimization Navigation and Mapping” has been accepted by <i>Intelligence and Robotics</i>!
+
+- [08/2022] Our paper “Multi-Robot Directed Coverage Path Planning in Row-Based Environments” has been accepted by <i>IEEE AIKE 2022</i>!
+
+- [07/2022] Our paper “Multi-Task Allocation Framework with Spatial Dislocation Collision Avoidance for Multiple Aerial Robots” has been accepted by <strong style="color: black;">IEEE Transactions on Aerospace and Electronic Systems</strong>!
+
+- [07/2022] Our paper “Path Planning Based on Deep Reinforcement Learning for Autonomous Underwater Vehicles Under Ocean Current Disturbance” has been accepted by <strong style="color: black;">IEEE Transactions on Intelligent Vehicles</strong>!
+
+- [07/2022] Our paper "A Bio-Inspired Neural Network Approach to Robot Navigation and Mapping with Nature-Inspired Algorithms" has received the <strong style="color: red;">Best Paper Award </strong> in <i>ICSI 2022</i>!
+
+- [05/2022] Our two papers have been accepted by <i>ICSI 2022</i>!
+
+- [03/2022] Tingjun named  Poster Session Winner in Spring 2022 Graduate Research Symposium! 
+
+- [02/2022] Our paper “Deep Learning-Based Complete Coverage Path Planning with Re-Joint and Obstacle Fusion Paradigm” has been accepted by <i>Frontiers in Robotics and AI</i>! 
 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
