@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Dr. Tingjun Lei"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+Dr. Tingjun Lei
+======
 [Assistant Professor](https://campus.und.edu/directory/tingjun.lei)\
 [School of Electrical Engineering and Computer Science](https://engineering.und.edu/academics/electrical-and-computer-science/index.html)\
 [University of North Dakota](https://und.edu/)\
@@ -18,16 +19,16 @@ ABOUT ME
 ======
 Dr. Tingjun Lei is currently an Assistant Professor in the School of Electrical Engineering and Computer Science at University of North Dakota. He received his Ph. D. degree in Electrical and Computer Engineering from Mississippi State University in 2023 under Dr. Chaomin Luo. His research spans across multiple areas, including bio-inspired artificial intelligence (AI), robotics and autonomous systems, optimization and evolutionary computation, human-autonomy teaming (HAT), intelligent transportation systems, and applied machine learning.
 
-<strong style="color: red;">Multiple Ph.D. Assistantship Positions are Available:</strong>
+<strong style="color: red;">Multiple Ph.D. Assistantship Positions are Available:</strong>\
 Several new fully funded Ph.D. positions are available in the School of Electrical Engineering and Computer Science at University of North Dakota (Grand Forks, ND). Highly motivated students for research with a strong mathematical background and proficiency in computer programming/simulation are welcome. Please contact Dr. Lei for more information (Interested students are encouraged to send your resume and transcripts with your TOEFL and GRE scores).
 
 
 
 NEWS
 ======
-- [06/2024] Our paper "On the Problems of Drone Formation and Light Shows" has been accepted by <b>IEEE Transactions on Consumer Electronics</b>!
+- [06/2024] Our paper "On the Problems of Drone Formation and Light Shows" has been accepted by <strong style="color: black;">IEEE Transactions on Consumer Electronics</strong>!
 
-- [06/2024] Our paper "Enhancing Student Learning in Robot Path Planning Optimization through Graph-Based Methods" has received the <b>Best Paper Award </b> of the Electrical and Computer Engineering Division at the <i>2024 ASEE Annual Conference</i>!
+- [06/2024] Our paper "Enhancing Student Learning in Robot Path Planning Optimization through Graph-Based Methods" has received the <strong style="color: red;">Best Paper Award</strong> of the Electrical and Computer Engineering Division at the <i>2024 ASEE Annual Conference</i>!
 
 - [05/2024] Our paper “Optimal Multi-target Navigation via Graph-based Algorithms in Complex Environments” has been accepted by <b>IEEE ISIE 2024</b>!
 
@@ -41,7 +42,27 @@ NEWS
 
 - [02/2024] Tingjun was invited to talk at <a href="https://www.ece.msstate.edu/ece-research-seminar-with-dr-lei-friday-february-23-12-1pm/" target="_blank">ECE Research Seminar</a> at Mississippi State University!
 
-- [02/2024] Our paper “Informed Sampling Space Driven Robot Informative Path Planning” has been accepted by <strong style="color: black;">Robotics and Autonomous Systems </strong>! 
+- [02/2024] Our paper “Informed Sampling Space Driven Robot Informative Path Planning” has been accepted by <strong style="color: black;">Robotics and Autonomous Systems</strong>!
+
+- [02/2024] Tingjun was appointed as the <strong style="color: black;">Junior Editorial Board Member</strong> of <a href="https://www.oaepublish.com/ir" target="_blank">Intelligence & Robotics</a>! 
+
+- [01/2024] Our paper “Digital Twin-Embedded Multi-Objective Autonomous Vehicle Navigation Approach as Applied in Infrastructure Construction” has been accepted by <strong style="color: black;">IET Cyber-Systems and Robotics</strong>!
+
+- [11/2023] Our paper “Bio-Inspired Intelligence-Based Multi-Agent Navigation with Safety-Aware Considerations” has been accepted by <strong style="color: black;">IEEE Transactions on Artificial Intelligence</strong>!
+
+- [10/2023] Tingjun passed dissertation defence! 
+
+- [09/2023] Tingjun received 2023 Arkansas Engineering Forum: Southeast Symposium on Contemporary Engineering Topics (SSCET 2023) Conference Research Poster Award!
+
+- [08/2023] Our paper “Graph-Based Robot Optimal Path Planning with Bio-Inspired Algorithms” has been accepted by <i>Biomimetic Intelligence and Robotics</i>!
+
+- [07/2023] Our paper “Bio-Inspired Algorithm in Image-Based Path Planning and Localization Using Visual Features and Maps” has been <strong style="color: black;">selected and featured as cover paper</strong>  by  <i>Intelligence and Robotics</i>! 
+
+- [06/2023] Our paper “Bio-Inspired Algorithm in Image-Based Path Planning and Localization Using Visual Features and Maps” has been accepted by <i>Intelligence and Robotics</i>! 
+
+- [05/2023] Our paper “A Convex Optimization Approach to Multi-Robot Task Allocation and Path Planning” has been accepted by <i>Sensors</i>! 
+
+- [05/2023] Our three papers have been accepted by <i>SPIE 2023</i>! 
 
 
 Site-wide configuration
