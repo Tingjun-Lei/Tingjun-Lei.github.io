@@ -6,6 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
+
+
+
 Dr. Tingjun Lei
 ======
 [Assistant Professor](https://campus.und.edu/directory/tingjun.lei)\
