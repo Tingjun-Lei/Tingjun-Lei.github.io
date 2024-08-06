@@ -8,11 +8,8 @@ redirect_from:
 ---
 
 [Assistant Professor](https://campus.und.edu/directory/tingjun.lei)
-
 [School of Electrical Engineering and Computer Science](https://engineering.und.edu/academics/electrical-and-computer-science/index.html)
-
 [University of North Dakota](https://und.edu/)
-
 Email: Tingjun dot Lei at UND dot edu 
 
 
