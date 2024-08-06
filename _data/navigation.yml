@@ -8,13 +8,16 @@ main:
 
   - title: "ACTIVITIES"
     url: /activities/    
-    
+          
+  - title: "PRESENTATIONS"
+    url: /talks/
+
+  - title: "RESEARCH"
+    url: /portfolio/
+
   - title: "INFO"
     url: /info/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
+
  # - title: "CV"
  #   url: /cv/
     
