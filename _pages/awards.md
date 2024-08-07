@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* 2024 &nbsp; <b>Best Paper Award</b>  <i>("Enhancing Student Learning in Robot Path Planning Optimization through Graph-Based Methods", 2024 ASEE Annual Conference, Electrical and Computer Engineering Division)</i>
+* 2024 &nbsp; Best Paper Award  <i>("Enhancing Student Learning in Robot Path Planning Optimization through Graph-Based Methods", 2024 ASEE Annual Conference, Electrical and Computer Engineering Division)</i>
 
 * 2023 &nbsp; Poster Presentation Winner <i>(Arkansas Engineering Forum: Southeast Symposium on Contemporary Engineering Topics, SSCET 2023)</i>
 
@@ -34,7 +34,7 @@ redirect_from:
 
 * 2022 &nbsp; Invited Best Student Paper Presentation --  <a href="https://www.iasei.org/icsi2022/program" target="_blank">2022 13th International Conference on Swarm Intelligence</a>
 
-* 2022 &nbsp; <b>Best Paper Award</b>  <i>("A Bio-Inspired Neural Network Approach to Robot Navigation and Mapping with Nature-Inspired Algorithms", 2022 13th International Conference on Swarm Intelligence, ICSI’ 2022)</i>
+* 2022 &nbsp; Best Paper Award  <i>("A Bio-Inspired Neural Network Approach to Robot Navigation and Mapping with Nature-Inspired Algorithms", 2022 13th International Conference on Swarm Intelligence, ICSI’ 2022)</i>
 
 * 2021 - 2022 &nbsp; Graduate Research Symposium, Poster Session Winner <i>(Graduate Student Association, Mississippi State University)</i> 
 
