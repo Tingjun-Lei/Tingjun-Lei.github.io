@@ -9,7 +9,5 @@ By combining human expertise with robot’s autonomy in a team, human-autonomy t
 <img src='/images/HAT2.jpg'>
 
 - <a href="https://doi.org/10.1016/j.robot.2024.104656" target="_blank">Informed Sampling Space Driven Robot Informative Path Planning</a>
-
 - <a href="https://ieeexplore.ieee.org/abstract/document/9980708" target="_blank">Human-Autonomy Teaming-Based Robot Informative Path Planning and Mapping Algorithms with Tree Search Mechanism</a>
-
 - <a href="https://dx.doi.org/10.20517/ir.2022.18" target="_blank">An Informative Planning-based Multi-Layer Robot Navigation System as Applied in a Poultry Barn</a> 
