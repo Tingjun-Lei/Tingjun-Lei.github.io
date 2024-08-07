@@ -9,7 +9,7 @@ Having a team of robots, an efficient allocation of exploration targets among th
 Multi-Robot Task Allocation (MRTA) is a complex problem especially when it comes to heterogeneous unreliable robots equipped with different capabilities that are required to perform various tasks with different requirements
 and constraints in an optimal way.
 
-<img src='/images/BNN1.JPG'>
+<img src='/images/TaskAllocation1.JPG'>
 
 - <a href="https://ieeexplore.ieee.org/document/9757857" target="_blank">Multi-Task Allocation Framework with Spatial Dislocation Collision Avoidance for Multiple Aerial Robots</a>
 - <a href="https://www.mdpi.com/1424-8220/23/11/5103" target="_blank">A Convex Optimization Approach to Multi-Robot Task Allocation and Path Planning</a>
