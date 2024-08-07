@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Human-Autonomy Teaming (HAT)"
+excerpt: "Combining human expertise with robot’s autonomy in a team <br/><img src='/images/HAT1.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+By combining human expertise with robot’s autonomy in a team, human-autonomy teaming (HAT) is defined by the team dynamics, rather than by the human or machines alone. HAT may promote better performance, especially when there is a high degree of uncertainty in exploration. This research related to integrated human/autonomy systems at multiple scales and includes areas such as cognitive engineering of autonomous agents; design for human and autonomy interaction; technological aids for human-autonomy interaction; human-autonomy interaction modeling, testing, and evaluation; and fundamental issues of measurement and modeling of human-autonomy performance in engineered systems.
+
