@@ -3,17 +3,17 @@ main:
   - title: "PUBLICATIONS"
     url: /publications/
 
+  - title: "ACTIVITIES"
+    url: /activities/  
+
   - title: "AWARDS"
     url: /awards/    
 
-  - title: "ACTIVITIES"
-    url: /activities/    
-          
-  - title: "PRESENTATIONS"
-    url: /talks/
+#  - title: "PRESENTATIONS"
+#    url: /talks/
 
-  - title: "RESEARCH"
-    url: /portfolio/
+#  - title: "RESEARCH"
+#    url: /portfolio/
 
 #  - title: "INFO"
 #    url: /info/
