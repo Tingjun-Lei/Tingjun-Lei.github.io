@@ -9,11 +9,13 @@ main:
   - title: "AWARDS"
     url: /awards/    
 
+  - title: "RESEARCH"
+    url: /portfolio/
+
 #  - title: "PRESENTATIONS"
 #    url: /talks/
 
-#  - title: "RESEARCH"
-#    url: /portfolio/
+
 
 #  - title: "INFO"
 #    url: /info/
