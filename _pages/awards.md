@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "AWARDS"
+title: "AWARDS & HONORS"
 permalink: /awards/
 author_profile: true
 redirect_from:
@@ -9,56 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2024 &nbsp; <b>Best Paper Award</b>  <i>("Enhancing Student Learning in Robot Path Planning Optimization through Graph-Based Methods", 2024 ASEE Annual Conference, Electrical and Computer Engineering Division)</i>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 &nbsp; Poster Presentation Winner <i>(Arkansas Engineering Forum: Southeast Symposium on Contemporary Engineering Topics, SSCET 2023))</i>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023 &nbsp; Paper Selected and Featured as Cover Article <i>("A Bio-Inspired Algorithm in Image-Based Path Planning and Localization Using Visual Features and Maps",  <a href="https://intellrobot.com/volinfo/341" target="_blank">Intelligence and Robotics Journal, vol. 3, no. 2</a>)</i>
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023 &nbsp; Bagley College of Engineering Student Hall of Fame Finalist <i>(Bagley College of Engineering, Mississippi State University)</i> 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2022 - 2023 &nbsp; ECE Best Graduate Researcher Award <i>(Department of Electrical and Computer Engineering, Mississippi State University)</i>
+
+* 2022 - 2023 &nbsp; Graduate Research Symposium, Oral Session Winner <i>(Graduate Student Association, Mississippi State University)</i>
+
+* 2022 - 2023 &nbsp; ECE Research Symposium Winner <i>(Department of Electrical and Computer Engineering, Mississippi State University)</i>
+
+* 2022 &nbsp; Paper Selected and Featured as Cover Article <i>("An Informative Planning-Based Multi-Layer Robot Navigation System as Applied in a Poultry",
+<a href="https://intellrobot.com/volinfo/249" target="_blank">Intelligence and Robotics Journal, vol. 2, no. 4</a>)</i>
+
+* 2022 &nbsp; Projects Featured with the Data Science Program <i>(Graduate Student Research, Mississippi State University)</i>
+
+* 2022 &nbsp; Research Travel Award <i>(International Autumn School on Situation Awareness in Cognitive Technologies 2022, ISACT’ 2022)</i>
+
+* 2022 &nbsp; Student Research Travel Award <i>(Bagley College of Engineering, Mississippi State University for IEEE International Conference on Human-Machine Systems, IEEE ICHMS’ 2022)</i>
+
+* 2022 &nbsp; Invited Best Student Paper Presentation --  <a href="https://www.iasei.org/icsi2022/program" target="_blank">2022 13th International Conference on Swarm Intelligence</a>
+
+* 2022 &nbsp; <b>Best Paper Award</b>  <i>("A Bio-Inspired Neural Network Approach to Robot Navigation and Mapping with Nature-Inspired Algorithms", 2022 13th International Conference on Swarm Intelligence, ICSI’ 2022)</i>
+
+* 2021 - 2022 &nbsp; Graduate Research Symposium, Poster Session Winner <i>(Graduate Student Association, Mississippi State University)</i> 
+
+* 2019 &nbsp; "HUWAIWEI CUP" The 16th China Post-Graduate Mathematical Contest in Modeling</li>
