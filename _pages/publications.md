@@ -135,13 +135,13 @@ T. Sellers, <i><b>Tingjun Lei</b></i>,  C. Luo, L. Liu, and D.W. Carruth,
 <b>An Enhanced Learning Method Used for Datapath Design Topics in Computer Engineering Curriculum<br>
 [ <a href="https://peer.asee.org/an-enhanced-learning-method-used-for-datapath-design-topics-in-computer-engineering-curriculum" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/382860660_An_Enhanced_Learning_Method_Used_for_Datapath_Design_Topics_in_Computer_Engineering_Curriculum" target="_blank">ResearchGate</a>  ]</b> <br>
 <i><b>Tingjun Lei</b></i>, T. Sellers,  C. Luo, G.E. Jan, and Z. Bi,
- <i>2024 ASEE Annual Conference & Exposition</i>, Portland, OR, USA, 2024, doi: 10.18260/1-2--46551. <b> <span style="font-weight: bold; color: red;">(Best Paper Award)</span></b> 
+ <i>2024 ASEE Annual Conference & Exposition</i>, Portland, OR, USA, 2024, doi: 10.18260/1-2--46551. 
 
 1. 
 <b>Enhancing Student Learning in Robot Path Planning Optimization through Graph-Based Methods<br>
 [ <a href="https://peer.asee.org/enhancing-student-learning-in-robot-path-planning-optimization-through-graph-based-methods" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/382875189_Enhancing_Student_Learning_in_Robot_Path_Planning_Optimization_through_Graph-Based_Methods" target="_blank">ResearchGate</a>  ]</b> <br>
 T. Sellers, <i><b>Tingjun Lei</b></i>,   C. Luo, Z. Bi,  and G.E. Jan,
- <i>2024 ASEE Annual Conference & Exposition</i>, Portland, OR, USA, 2024, doi: 10.18260/1-2--47317.
+ <i>2024 ASEE Annual Conference & Exposition</i>, Portland, OR, USA, 2024, doi: 10.18260/1-2--47317. <b> <span style="font-weight: bold; color: red;">(Best Paper Award)</span></b> 
 
 1. 
 <b>A Hybrid Pedagogy through Topical Guide Objective to Enhance Student Learning in MIPS Instruction Set Design<br>
