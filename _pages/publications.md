@@ -109,6 +109,7 @@ T. Sellers, <i><b>Tingjun Lei</b></i>, C. Luo, G.E. Jan, and J. Ma,
 Conferences
 ======
 
+
 1. 
 <b>Optimal Multi-Target Navigation via Graph-Based Algorithms in Complex Environments<br>
 [ <a href="http://dx.doi.org/10.1109/ISIE54533.2024.10595682" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/382417102_Optimal_Multi-target_Navigation_via_Graph-based_Algorithms_in_Complex_Environments" target="_blank">ResearchGate</a>  ]</b> <br>
@@ -123,6 +124,36 @@ B. Black, T. Sellers, <i><b>Tingjun Lei</b></i>,  C. Luo, and D.W. Carruth,
 [ <a href="http://dx.doi.org/10.1109/ICHMS59971.2024.10555725" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/381567343_Enhancing_Human-Robot_Cohesion_through_HAT_Methods_A_Crowd-Avoidance_Model_for_Safety_Aware_Navigation" target="_blank">ResearchGate</a>  ]</b> <br>
 T. Sellers, <i><b>Tingjun Lei</b></i>,  C. Luo, L. Liu, and D.W. Carruth,
  <i>4th IEEE International Conference on Human-Machine Systems (ICHMS)</i>, Toronto, ON, Canada, 2024, pp. 1-6, doi: 10.1109/ICHMS59971.2024.10555725. 
+
+1. 
+<b>Developing Computational Intelligence Curriculum Materials to Advance Student Learning for Robot Control and Optimization<br>
+[ <a href="https://peer.asee.org/developing-computational-intelligence-curriculum-materials-to-advance-student-learning-for-robot-control-and-optimization" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/382873831_Developing_Computational_Intelligence_Curriculum_Materials_to_Advance_Student_Learning_for_Robot_Control_and_Optimization" target="_blank">ResearchGate</a>  ]</b> <br>
+<i><b>Tingjun Lei</b></i>, T. Sellers,  C. Luo, Z. Bi,  and G.E. Jan,
+ <i>2024 ASEE Annual Conference & Exposition</i>, Portland, OR, USA, 2024, doi: 10.18260/1-2--47162.
+
+1. 
+<b>An Enhanced Learning Method Used for Datapath Design Topics in Computer Engineering Curriculum<br>
+[ <a href="https://peer.asee.org/an-enhanced-learning-method-used-for-datapath-design-topics-in-computer-engineering-curriculum" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/382860660_An_Enhanced_Learning_Method_Used_for_Datapath_Design_Topics_in_Computer_Engineering_Curriculum" target="_blank">ResearchGate</a>  ]</b> <br>
+<i><b>Tingjun Lei</b></i>, T. Sellers,  C. Luo, G.E. Jan, and Z. Bi,
+ <i>2024 ASEE Annual Conference & Exposition</i>, Portland, OR, USA, 2024, doi: 10.18260/1-2--46551. <b> <span style="font-weight: bold; color: red;">(Best Paper Award)</span></b> 
+
+1. 
+<b>Enhancing Student Learning in Robot Path Planning Optimization through Graph-Based Methods<br>
+[ <a href="https://peer.asee.org/enhancing-student-learning-in-robot-path-planning-optimization-through-graph-based-methods" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/382875189_Enhancing_Student_Learning_in_Robot_Path_Planning_Optimization_through_Graph-Based_Methods" target="_blank">ResearchGate</a>  ]</b> <br>
+T. Sellers, <i><b>Tingjun Lei</b></i>,   C. Luo, Z. Bi,  and G.E. Jan,
+ <i>2024 ASEE Annual Conference & Exposition</i>, Portland, OR, USA, 2024, doi: 10.18260/1-2--47317.
+
+1. 
+<b>A Hybrid Pedagogy through Topical Guide Objective to Enhance Student Learning in MIPS Instruction Set Design<br>
+[ <a href="https://peer.asee.org/a-hybrid-pedagogy-through-topical-guide-objective-to-enhance-student-learning-in-mips-instruction-set-design" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/382864716_A_Hybrid_Pedagogy_through_Topical_Guide_Objective_to_Enhance_Student_Learning_in_MIPS_Instruction_Set_Design" target="_blank">ResearchGate</a>  ]</b> <br>
+T. Sellers, <i><b>Tingjun Lei</b></i>,  C. Luo, G.E. Jan, and Z. Bi,
+ <i>2024 ASEE Annual Conference & Exposition</i>, Portland, OR, USA, 2024, doi: 10.18260/1-2--46448.
+
+
+
+
+
+
 
 
 1.  
