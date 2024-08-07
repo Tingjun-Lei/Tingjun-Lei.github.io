@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "ACTIVITES"
+title: "ACADEMIC PROFESSIONAL ACTIVITIES"
 permalink: /activities/
 author_profile: true
 redirect_from:
@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Journal Editor
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Intelligence & Robotics, Editorial Board Member
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Conference Program Committee
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2025 9th International Conference on Artificial Intelligence, Automation and Control Technologies (AIACT 2025)
+* 2025 5th Asia Conference on Information Engineering (ACIE 2025)
+* 2025 International Conference on Advanced Machine Learning and Data Science (AMLDS 2025)
+* 2025 9th International Conference on Machine Learning and Soft Computing (ICMLSC 2025)
+* 2024 IEEE 4th Cyber Awareness and Research Symposium 2024 (CARS' 2024)
+* 2024 International Conference on Computer Science and Artificial Intelligence Applications (CSAIA 2024)
+* 2024 15th International Conference on Swarm Intelligence (ICSI’ 2024)
+* 2024 IEEE Congress on Evolutionary Computation (IEEE CEC 2024)
+* 2024 International Joint Conference on Neural Networks (IJCNN 2024)
+* 2024 5th International Conference on Control, Robotics and Intelligent System (CCRIS 2024)
+* 2024 Industrial Electronics and Intelligent Systems Conference (IEISC 2024)
+* 2024 6th International Conference on Pattern Recognition and Intelligent Systems (PRIS 2024) 
+* 2024 8th International Conference on Machine Learning and Soft Computing (ICMLSC 2024)
+* 2023 4th International Conference on Control, Robotics and Intelligent System (CCRIS 2023) 
+* 2023 International Joint Conference on Neural Networks (IJCNN 2023) 
+* 2023 14th International Conference on Swarm Intelligence (ICSI' 2023) 
+* 2023 5th International Conference on Pattern Recognition and Intelligent Systems (PRIS 2023) 
+* 2023 Industrial Electronics and Intelligent Systems Conference (IEISC 2023)
+* 2022 4th International Conference on Pattern Recognition and Intelligent Systems (PRIS 2022) 
