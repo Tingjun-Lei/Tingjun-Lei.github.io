@@ -11,7 +11,7 @@ redirect_from:
 
 * 2024 &nbsp; <b>Best Paper Award</b>  <i>("Enhancing Student Learning in Robot Path Planning Optimization through Graph-Based Methods", 2024 ASEE Annual Conference, Electrical and Computer Engineering Division)</i>
 
-* 2023 &nbsp; Poster Presentation Winner <i>(Arkansas Engineering Forum: Southeast Symposium on Contemporary Engineering Topics, SSCET 2023))</i>
+* 2023 &nbsp; Poster Presentation Winner <i>(Arkansas Engineering Forum: Southeast Symposium on Contemporary Engineering Topics, SSCET 2023)</i>
 
 * 2023 &nbsp; Paper Selected and Featured as Cover Article <i>("A Bio-Inspired Algorithm in Image-Based Path Planning and Localization Using Visual Features and Maps",  <a href="https://intellrobot.com/volinfo/341" target="_blank">Intelligence and Robotics Journal, vol. 3, no. 2</a>)</i>
 
