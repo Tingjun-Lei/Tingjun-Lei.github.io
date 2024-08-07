@@ -12,6 +12,6 @@ Each neuron is locally connected with adjacent neurons to transmit neural activi
 
 <img src='/images/BNN1.JPG'>
 
-- <a href="https://ieeexplore.ieee.org/document/10323440" target="_blank">Bio-Inspired Intelligence-Based Multi-Agent Navigation with Safety-Aware Considerations</a> <br>
+- <a href="https://ieeexplore.ieee.org/document/10323440" target="_blank">Bio-Inspired Intelligence-Based Multi-Agent Navigation with Safety-Aware Considerations</a> 
 - <a href="https://link.springer.com/chapter/10.1007/978-3-031-09726-3_1" target="_blank">A Bio-Inspired Neural Network Approach to Robot Navigation and Mapping with Nature-Inspired Algorithms</a> 
 
