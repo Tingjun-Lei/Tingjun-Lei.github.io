@@ -11,7 +11,7 @@ redirect_from:
 
 Journal Editor
 ======
-* 2024-2026 Editorial Board Member, Intelligence & Robotics
+* 2024-2026 Editorial Board Member, <a href="https://www.oaepublish.com/ir" target="_blank">Intelligence & Robotics</a>
 * 2024-2025 Special Issue Guest Editor, Electronics (Special Issue: <a href="https://www.mdpi.com/journal/electronics/special_issues/SRAS" target="_blank">Smart Robotics and Autonomous Systems</a> )
  
 
