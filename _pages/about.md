@@ -33,6 +33,8 @@ News
 ======
 - [08/2024] Tingjun is serving as the guest editor and organizing the <a href="https://www.mdpi.com/journal/electronics/special_issues/SRAS" target="_blank">"Smart Robotics and Autonomous Systems" Special Issue</a> in the Electronics MDPI journal!
 
+- [08/2024] Tingjun and his team started a new journey at UND!
+
 - [06/2024] Our paper "On the Problems of Drone Formation and Light Shows" has been accepted by <strong style="color: black;">IEEE Transactions on Consumer Electronics</strong>!
 
 - [06/2024] Our paper "Enhancing Student Learning in Robot Path Planning Optimization through Graph-Based Methods" has received the <strong style="color: red;">Best Paper Award</strong> of the Electrical and Computer Engineering Division at the <i>2024 ASEE Annual Conference</i>!
