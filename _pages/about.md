@@ -31,7 +31,7 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
-- [08/2024] Tingjun is serving as the guest editor and organizing the <a href="https://www.mdpi.com/journal/electronics/special_issues/SRAS" target="_blank">"Smart Robotics and Autonomous Systems" Special Issue</a> in the Electronics MDPI journal!
+- [08/2024] Tingjun served as the guest editor and organized the <a href="https://www.mdpi.com/journal/electronics/special_issues/SRAS" target="_blank">"Smart Robotics and Autonomous Systems" Special Issue</a> in the Electronics MDPI journal!
 
 - [08/2024] Tingjun and his team started a new journey at UND!
 
