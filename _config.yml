@@ -24,9 +24,9 @@ author:
   avatar           : "MyImg.jpg"
   name             : "Dr. Tingjun Lei"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor at School of Electrical Engineering and Computer Science, University of North Dakota"
+  bio              : "Assistant Professor at School of Electrical Engineering and Computer Science (SEECS), University of North Dakota"
   employer         : "University of North Dakota"
-  location         : "Grand Forks, ND"
+  location         : "Grand Forks, ND, USA"
   uri              : "https://campus.und.edu/directory/tingjun.lei"
   email            : # URL
 
