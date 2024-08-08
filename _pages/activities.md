@@ -11,10 +11,9 @@ redirect_from:
 
 Journal Editor
 ======
-Intelligence & Robotics, Editorial Board Member
-
-
-
+* 2024-2026 Editorial Board Member, Intelligence & Robotics
+* 2024-2025 Special Issue Guest Editor, Electronics (Special Issue: <a href="https://www.mdpi.com/journal/electronics/special_issues/SRAS" target="_blank">Smart Robotics and Autonomous Systems</a> )
+ 
 
 Conference Program Committee
 ======
@@ -34,6 +33,11 @@ Conference Program Committee
 * 2023 4th International Conference on Control, Robotics and Intelligent System (CCRIS 2023) 
 * 2023 International Joint Conference on Neural Networks (IJCNN 2023) 
 * 2023 14th International Conference on Swarm Intelligence (ICSI' 2023) 
-* 2023 5th International Conference on Pattern Recognition and Intelligent Systems (PRIS 2023) 
+* 2023 5th International Conference on Pattern Recognition and Intelligent Systems (PRIS 2023)
 * 2023 Industrial Electronics and Intelligent Systems Conference (IEISC 2023)
 * 2022 4th International Conference on Pattern Recognition and Intelligent Systems (PRIS 2022) 
+
+Conference Special Session Organizer
+======
+* 2024 Special Session: "Biologically Inspired Intelligence for Mechatronics and Robotics" on International Conference on Swarm Intelligence (ICSI’ 2024)
+
