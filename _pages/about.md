@@ -31,6 +31,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [03/2024] Tingjun was appointed as the <strong style="color: black;">Editorial Board Member</strong> of <a href="https://www.oaepublish.com/ir" target="_blank">Intelligence & Robotics</a>! 
+
 - [08/2024] Tingjun served as the guest editor and organized the <a href="https://www.mdpi.com/journal/electronics/special_issues/SRAS" target="_blank">"Smart Robotics and Autonomous Systems" Special Issue</a> in the Electronics MDPI journal!
 
 - [08/2024] Tingjun and his team started a new journey at UND!
@@ -47,13 +49,13 @@ News
 
 - [03/2024] Our four papers have been accepted by <i>ASEE 2024</i>!
 
+- [03/2024] Tingjun was appointed as the <strong style="color: black;">Junior Editorial Board Member</strong> of <a href="https://www.oaepublish.com/ir" target="_blank">Intelligence & Robotics</a>! 
+
 - [02/2024] Our paper “Enhancing Human-Robot Cohesion through HAT Methods: A Crowd-Avoidance Model for Safety Aware Navigation” has been accepted by <b>IEEE ICHMS 2024</b>!
 
 - [02/2024] Tingjun was invited to talk at <a href="https://www.ece.msstate.edu/ece-research-seminar-with-dr-lei-friday-february-23-12-1pm/" target="_blank">ECE Research Seminar</a> at Mississippi State University!
 
 - [02/2024] Our paper “Informed Sampling Space Driven Robot Informative Path Planning” has been accepted by <strong style="color: black;">Robotics and Autonomous Systems</strong>!
-
-- [02/2024] Tingjun was appointed as the <strong style="color: black;">Junior Editorial Board Member</strong> of <a href="https://www.oaepublish.com/ir" target="_blank">Intelligence & Robotics</a>! 
 
 - [01/2024] Our paper “Digital Twin-Embedded Multi-Objective Autonomous Vehicle Navigation Approach as Applied in Infrastructure Construction” has been accepted by <strong style="color: black;">IET Cyber-Systems and Robotics</strong>!
 
