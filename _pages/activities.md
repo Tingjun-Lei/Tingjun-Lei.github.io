@@ -39,6 +39,6 @@ Conference Program Committee
 
 Others
 ======
-* 2024 IEEE Robotics and Automation Technical Committee on Robot Ethics
-* 2024 Special Session Organizer: "Biologically Inspired Intelligence for Mechatronics and Robotics" on International Conference on Swarm Intelligence (ICSI’ 2024)
+* IEEE Robotics and Automation Technical Committee on Robot Ethics
+* Special Session Organizer: "Biologically Inspired Intelligence for Mechatronics and Robotics" on International Conference on Swarm Intelligence (ICSI’ 2024)
 
