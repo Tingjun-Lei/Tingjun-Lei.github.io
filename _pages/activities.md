@@ -37,7 +37,8 @@ Conference Program Committee
 * 2023 Industrial Electronics and Intelligent Systems Conference (IEISC 2023)
 * 2022 4th International Conference on Pattern Recognition and Intelligent Systems (PRIS 2022) 
 
-Conference Special Session Organizer
+Others
 ======
-* 2024 Special Session: "Biologically Inspired Intelligence for Mechatronics and Robotics" on International Conference on Swarm Intelligence (ICSI’ 2024)
+* 2024 IEEE Robotics and Automation Technical Committee on Robot Ethics
+* 2024 Special Session Organizer: "Biologically Inspired Intelligence for Mechatronics and Robotics" on International Conference on Swarm Intelligence (ICSI’ 2024)
 
