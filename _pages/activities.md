@@ -18,11 +18,11 @@ Journal Editor
 Conference Program Committee
 ======
 * 2025 9th International Conference on Artificial Intelligence, Automation and Control Technologies (AIACT 2025)
+* 2025 International Conference on Computer Science and Artificial Intelligence Applications (CSAIA 2025)
 * 2025 5th Asia Conference on Information Engineering (ACIE 2025)
 * 2025 International Conference on Advanced Machine Learning and Data Science (AMLDS 2025)
 * 2025 9th International Conference on Machine Learning and Soft Computing (ICMLSC 2025)
 * 2024 IEEE 4th Cyber Awareness and Research Symposium 2024 (CARS' 2024)
-* 2024 International Conference on Computer Science and Artificial Intelligence Applications (CSAIA 2024)
 * 2024 15th International Conference on Swarm Intelligence (ICSI’ 2024)
 * 2024 IEEE Congress on Evolutionary Computation (IEEE CEC 2024)
 * 2024 International Joint Conference on Neural Networks (IJCNN 2024)
