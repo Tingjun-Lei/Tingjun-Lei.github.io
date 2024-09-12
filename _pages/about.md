@@ -61,7 +61,7 @@ News
 
 - [01/2024] Our paper “Digital Twin-Embedded Multi-Objective Autonomous Vehicle Navigation Approach as Applied in Infrastructure Construction” has been accepted by <strong style="color: black;">IET Cyber-Systems and Robotics</strong>!
 
-- [11/2023] Our paper “Bio-Inspired Intelligence-Based Multi-Agent Navigation with Safety-Aware Considerations” has been accepted by <strong style="color: black;">IEEE Transactions on Artificial Intelligence</strong>!
+- [11/2023] Our paper “Bio-Inspired Intelligence-Based Multi-Agent Navigation with Safety-Aware Considerations” has been accepted by <i>IEEE Transactions on Artificial Intelligence</i>!
 
 - [10/2023] Tingjun passed dissertation defence! 
 
