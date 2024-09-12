@@ -59,9 +59,9 @@ News
 
 - [02/2024] Our paper “Informed Sampling Space Driven Robot Informative Path Planning” has been accepted by <strong style="color: black;">Robotics and Autonomous Systems</strong>!
 
-- [01/2024] Our paper “Digital Twin-Embedded Multi-Objective Autonomous Vehicle Navigation Approach as Applied in Infrastructure Construction” has been accepted by <strong style="color: black;">IET Cyber-Systems and Robotics</strong>!
+- [01/2024] Our paper “Digital Twin-Embedded Multi-Objective Autonomous Vehicle Navigation Approach as Applied in Infrastructure Construction” has been accepted by <i>IET Cyber-Systems and Robotics</i>!
 
-- [11/2023] Our paper “Bio-Inspired Intelligence-Based Multi-Agent Navigation with Safety-Aware Considerations” has been accepted by <i>IEEE Transactions on Artificial Intelligence</i>!
+- [11/2023] Our paper “Bio-Inspired Intelligence-Based Multi-Agent Navigation with Safety-Aware Considerations” has been accepted by <strong style="color: black;">IEEE Transactions on Artificial Intelligence</strong>!
 
 - [10/2023] Tingjun passed dissertation defence! 
 
