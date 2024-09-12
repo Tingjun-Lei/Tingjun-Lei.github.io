@@ -328,7 +328,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oaBB35JNpRKvSPkJ0s2zHMZcgP77UF9TX8EAkaubJXA&cl=ffffff&w=a"></script>
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
