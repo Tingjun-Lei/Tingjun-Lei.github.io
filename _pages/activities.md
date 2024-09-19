@@ -19,6 +19,7 @@ Conference Program Committee
 ======
 * 2025 9th International Conference on Artificial Intelligence, Automation and Control Technologies (AIACT 2025)
 * 2025 International Conference on Computer Science and Artificial Intelligence Applications (CSAIA 2025)
+* Asia Conference on Communications and 6G (ACC6G 2025)
 * 2025 5th Asia Conference on Information Engineering (ACIE 2025)
 * 2025 International Conference on Advanced Machine Learning and Data Science (AMLDS 2025)
 * 2025 9th International Conference on Machine Learning and Soft Computing (ICMLSC 2025)
