@@ -42,8 +42,8 @@ redirect_from:
     <p><i>Ph.D. Student </i></p>
     <ul style="overflow: hidden">
 
-  <li> MSc, Northeastern University, USA </li>
-  <li> BSc, Indian Institute of Technology Guwahati, India </li>
+  <li> M.S., Data Analytics Engineering, Northeastern University, USA </li>
+  <li> B.S., Biotechnology, Indian Institute of Technology Guwahati, India </li>
   
   </ul>
   </div>
@@ -54,9 +54,13 @@ redirect_from:
     <h4>Justin London</h4>
     <p><i>Ph.D. Student </i></p>
     <ul style="overflow: hidden">
-  
-  <li> BEng, Bells University, Nigeria </li>
-  
+
+  <li> Ph.D., Machine Learning, Illinois Institute of Technology, USA </li>
+  <li> J.D., Doctor of Law, University of Illinois Chicago, USA </li>
+  <li> M.S., Mathematics, University of Michigan, USA </li>
+  <li> M.S., Financial Engineering, University of Michigan, USA </li>
+  <li> M.S., Applied Economics, University of Michigan, USA </li>
+  <li> M.S., Computer and Information Science, University of Michigan-Dearborn, USA </li>
   </ul>
   </div>
 
@@ -74,9 +78,9 @@ redirect_from:
     <p><i>Research Associate </i></p>
     <ul style="overflow: hidden">
   
-  <li> PhD, University of Connecticut, USA </li>
-  <li> MSc, University of Florida, USA  </li>
-  <li> BSc, Zhejiang University, China </li>
+  <li> Ph.D., Electrical and Computer Engineering, University of Connecticut, USA </li>
+  <li> M.S., Electrical and Computer Engineering, University of Florida, USA  </li>
+  <li> B.S., Electrical Engineering and Automation, Zhejiang University, China </li>
   
 
   
@@ -93,5 +97,4 @@ redirect_from:
 
 </div>
 
-      </div>
-    </div>
+
