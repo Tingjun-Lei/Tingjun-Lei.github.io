@@ -16,7 +16,7 @@ redirect_from:
 
 <h2 id="group-members">Group Members</h2>
 
-<p><strong>We are looking for new Ph.D. students students to join the team</strong> <a href="/vacancies">(see openings)</a> <strong>!</strong></p>
+<p><strong>We are looking for new Ph.D. students students to join the team</strong> <strong>!</strong></p>
 
 <h3 id="principal-investigator">Principal Investigator</h3>
 
@@ -88,31 +88,8 @@ redirect_from:
 
 </div>
 
-<h3 id="alumni">Alumni</h3>
-<div class="row">
 
-  <div class="col-sm-4 clearfix">
-    <h4>Visitors</h4>
 
-    <p>Pending, Date</p>
-
-  </div>
-
-  <div class="col-sm-4 clearfix">
-    <h4>Master students</h4>
-
-    <p>Pending, Date</p>
-
-  </div>
-
-  <div class="col-sm-4 clearfix">
-    <h4>Bachelor Students</h4>
-
-    <p>Pending, Date</p>
-
-  </div>
-
-</div>
 
 </div>
 
