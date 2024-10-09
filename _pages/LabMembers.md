@@ -14,11 +14,9 @@ redirect_from:
         <div id="gridid" class="col-sm-12">
   <p>&nbsp;</p>
 
-<h1 id="group-members">Team Members</h1>
-
 <p><strong>We are looking for new Ph.D. students students to join the team</strong><strong>!</strong></p>
 
-<h2 id="lab-members">Ph.D. Students</h2>
+<h1 id="lab-members">Ph.D. Students</h1>
 
 <div class="row">
 
@@ -53,7 +51,7 @@ redirect_from:
 
 </div>
 
-<h2 id="other-personnel">Other Personnel</h2>
+<h1 id="other-personnel">Other Personnel</h1>
 
 <div class="row">
 
