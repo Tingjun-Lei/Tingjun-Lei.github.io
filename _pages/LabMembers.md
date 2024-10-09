@@ -50,7 +50,7 @@ redirect_from:
 
 
   <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/ava_IU.png" class="img-responsive" width="25%" style="float: left"></p>
+    <p><img src="/images/Justin.jpg" class="img-responsive" width="25%" style="float: left"></p>
     <h4>Justin London</h4>
     <p><i>Ph.D. Student </i></p>
     <ul style="overflow: hidden">
@@ -69,7 +69,7 @@ redirect_from:
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/ava_FL.png" class="img-responsive" width="25%" style="float: left"></p>
+    <p><img src="/images/YeKetian.jpg" class="img-responsive" width="25%" style="float: left"></p>
     <h4>Ketian Ye, Ph.D.</h4>
     <p><i>Research Associate </i></p>
     <ul style="overflow: hidden">
