@@ -37,7 +37,7 @@ redirect_from:
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/ava_MA.JPG" class="img-responsive" width="25%" style="float: left"></p>
+    <p><img src="/images/Ashwin.jpg" class="img-responsive" width="25%" style="float: left"></p>
     <h4>Ashwin Mukunda Devanga</h4>
     <p><i>Ph.D. Student </i></p>
     <ul style="overflow: hidden">
