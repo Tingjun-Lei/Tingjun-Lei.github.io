@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
+<p><strong>We are looking for new Ph.D. students students to join the team</strong><strong>!</strong></p>
+
 <div class="container-fluid">
       <div class="row">
         <div id="gridid" class="col-sm-12">
-  <p>&nbsp;</p>
-
-<p><strong>We are looking for new Ph.D. students students to join the team</strong><strong>!</strong></p>
 
 <h1 id="lab-members">Ph.D. Students</h1>
 
