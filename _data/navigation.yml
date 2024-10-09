@@ -12,6 +12,9 @@ main:
   - title: "RESEARCH"
     url: /portfolio/
 
+  - title: "Team Members"
+    url: /LabMembers/
+
 
 #  - title: "PRESENTATIONS"
 #    url: /talks/
