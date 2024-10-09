@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<p><strong>We are looking for new Ph.D. students students to join the team</strong><strong>!</strong></p>
+<p><strong>We are looking for new Ph.D. students to join the team</strong><strong>!</strong></p>
 
 <div class="container-fluid">
       <div class="row">
