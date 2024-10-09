@@ -24,8 +24,8 @@ redirect_from:
 
   <div class="col-sm-6 clearfix">
     <p><img src="/images/Ashwin.jpg" class="img-responsive" width="25%" style="float: left"></p>
-    <h3>Ashwin Mukunda Devanga</h3>
-    <p><i>Ph.D. Student </i></p>
+    <h3>&nbsp;&nbsp;&nbsp;Ashwin Mukunda Devanga</h3>
+    <p><i>&nbsp;&nbsp;&nbsp;Ph.D. Student </i></p>
     <ul style="overflow: hidden">
   <li> M.S., Data Analytics Engineering, Northeastern University, USA </li>
   <li> B.S., Biotechnology, Indian Institute of Technology Guwahati, India </li>
@@ -37,8 +37,8 @@ redirect_from:
 
   <div class="col-sm-6 clearfix">
     <p><img src="/images/Justin.jpg" class="img-responsive" width="25%" style="float: left"></p>
-    <h3>Justin London</h3>
-    <p><i>Ph.D. Student </i></p>
+    <h3>&nbsp;&nbsp;&nbsp;Justin London</h3>
+    <p><i>&nbsp;&nbsp;&nbsp;Ph.D. Student </i></p>
     <ul style="overflow: hidden">
   <li> Ph.D., Machine Learning, Illinois Institute of Technology, USA </li>
   <li> J.D., Doctor of Law, University of Illinois Chicago, USA </li>
@@ -59,8 +59,8 @@ redirect_from:
 
   <div class="col-sm-6 clearfix">
     <p><img src="/images/YeKetian.jpg" class="img-responsive" width="25%" style="float: left"></p>
-    <h3>&nbsp;Ketian Ye, Ph.D.</h3>
-    &nbsp;<p><i>   Research Associate </i></p>
+    <h3>&nbsp;&nbsp;&nbsp;Ketian Ye, Ph.D.</h3>
+    <p><i>&nbsp;&nbsp;&nbsp;Research Associate </i></p>
     <ul style="overflow: hidden">
   <li> Ph.D., Electrical and Computer Engineering, University of Connecticut, USA </li>
   <li> M.S., Electrical and Computer Engineering, University of Florida, USA  </li>
