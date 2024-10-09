@@ -32,7 +32,7 @@ redirect_from:
   </ul>
   </div>
 
-<br>
+
   <div class="col-sm-6 clearfix">
     <p><img src="/images/Justin.jpg" class="img-responsive" width="25%" style="float: left"></p>
     <h4>Justin London</h4>
