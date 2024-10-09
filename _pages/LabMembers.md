@@ -1,4 +1,13 @@
+---
+layout: archive
+title: "TEAM MEMBERS"
+permalink: /LabMembers/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
+{% include base_path %}
 
 <div class="container-fluid">
       <div class="row">
