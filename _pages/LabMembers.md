@@ -23,7 +23,7 @@ redirect_from:
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="/images/myImg.jpg" class="img-responsive" width="25%" style="float: left"></p>
+    <p><img src="/images/MyImg.jpg" class="img-responsive" width="25%" style="float: left"></p>
     <h4>Tingjun Lei, Ph.D.</h4>
     <p><i>Assistant Professor </i></p>
     <ul style="overflow: hidden">
