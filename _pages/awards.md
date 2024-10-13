@@ -38,4 +38,4 @@ redirect_from:
 
 * 2021 - 2022 &nbsp; Graduate Research Symposium, Poster Session Winner <i>(Graduate Student Association, Mississippi State University)</i> 
 
-* 2019 &nbsp; "HUWAIWEI CUP" The 16th China Post-Graduate Mathematical Contest in Modeling</li>
+* 2019 &nbsp; "HUWAIWEI CUP" The 16th China Post-Graduate Mathematical Contest in Modeling
