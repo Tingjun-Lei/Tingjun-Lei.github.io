@@ -16,9 +16,16 @@ author_profile: true
 Journals
 ======
 1. 
+<b>Human Autonomy Teaming-Based Safety-Aware Navigation Through Bio-Inspired and Graph-Based Algorithms<br>
+[ <a href="https://doi.org/10.1016/j.birob.2024.100189" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/385057085_Human_autonomy_teaming-based_safety-aware_navigation_through_bio-inspired_and_graph-based_algorithms" target="_blank">ResearchGate</a>  ]</b><br>
+T. Sellers, <i><b>Tingjun Lei</b></i>, C. Luo, Z. Bi,  and G.E. Jan, 
+<i>Biomimetic Intelligence and Robotics</i>, Oct.. 2024, doi:10.1016/j.birob.2024.100189.
+
+
+1. 
 <b>On the Problems of Drone Formation and Light Shows<br>
 [ <a href="https://doi.org/10.1109/TCE.2024.3421516" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/381908143_On_the_Problems_of_Drone_Formation_and_Light_Shows" target="_blank">ResearchGate</a>  ]</b><br>
-G.E. Jan, <i><b>Tingjun Lei</b></i>, C.-C. Sun, Z.-Y. You and C. Luo, 
+G.E. Jan, <i><b>Tingjun Lei</b></i>, C.-C. Sun, Z.-Y. You, and C. Luo, 
 <i>IEEE Transactions on Consumer Electronics</i>, July. 2024, doi:10.1109/TCE.2024.3421516.
 
 
