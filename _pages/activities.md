@@ -42,5 +42,6 @@ Conference Program Committee
 Others
 ======
 * IEEE Robotics and Automation Technical Committee on Robot Ethics
+* Session Chair: 2024 IEEE 4th Cyber Awareness and Research Symposium 2024 (CARS' 2024)
 * Special Session Organizer: "Biologically Inspired Intelligence for Mechatronics and Robotics" on International Conference on Swarm Intelligence (ICSI’ 2024)
 
