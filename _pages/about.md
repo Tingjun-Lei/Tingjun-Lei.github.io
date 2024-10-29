@@ -31,6 +31,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [10/2024] Tingjun served as Session Chair of IEEE 4th Cyber Awareness and Research Symposium 2024 ( CARS'24 )
+
 - [09/2024] Our paper "Human Autonomy Teaming-Based Safety-Aware Navigation through Bio-Inspired and Graph-Based Algorithms" has been accepted by <i>Biomimetic Intelligence and Robotics</i>!
 
 - [08/2024] Tingjun was appointed as the <strong style="color: black;">Editorial Board Member</strong> of <a href="https://www.oaepublish.com/ir" target="_blank">Intelligence & Robotics</a>! 
