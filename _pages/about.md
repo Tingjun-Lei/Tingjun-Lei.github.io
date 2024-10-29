@@ -25,9 +25,10 @@ Dr. Tingjun Lei is currently an Assistant Professor in the School of Electrical 
 
 <strong style="color: red;">Call for Papers: "Smart Robotics and Autonomous Systems" Special Issue in Electronics MDPI Journal</strong>\
 As the guest editor for the <a href="https://www.mdpi.com/journal/electronics/special_issues/SRAS" target="_blank">"Smart Robotics and Autonomous Systems" Special Issue</a> in the Electronics MDPI journal, I invite researchers to submit their work on the latest developments in Robotics and Autonomous Systems. The deadline for submissions is February 15, 2025.
-
+<!-- 
 <strong style="color: red;">Multiple Ph.D. Assistantship Positions are Available:</strong>\
 Several new fully funded Ph.D. positions are available in the School of Electrical Engineering and Computer Science at University of North Dakota (Grand Forks, ND). Highly motivated students for research with a strong mathematical background and proficiency in computer programming/simulation are welcome. Please contact Dr. Lei for more information (Interested students are encouraged to send your resume and transcripts with your TOEFL and GRE scores).
+-->
 
 News
 ======
