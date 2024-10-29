@@ -13,7 +13,11 @@ Journal Editor
 ======
 * 2024-2026 Editorial Board Member, <a href="https://www.oaepublish.com/ir" target="_blank">Intelligence & Robotics</a>
 * 2024-2025 Special Issue Guest Editor, Electronics (Special Issue: <a href="https://www.mdpi.com/journal/electronics/special_issues/SRAS" target="_blank">Smart Robotics and Autonomous Systems</a> )
- 
+
+Conference and Session Organizer
+======
+* Session Chair: 2024 IEEE 4th Cyber Awareness and Research Symposium 2024 (CARS' 2024)
+* Special Session Organizer: "Biologically Inspired Intelligence for Mechatronics and Robotics" on International Conference on Swarm Intelligence (ICSI’ 2024)
 
 Conference Program Committee
 ======
@@ -42,6 +46,5 @@ Conference Program Committee
 Others
 ======
 * IEEE Robotics and Automation Technical Committee on Robot Ethics
-* Session Chair: 2024 IEEE 4th Cyber Awareness and Research Symposium 2024 (CARS' 2024)
-* Special Session Organizer: "Biologically Inspired Intelligence for Mechatronics and Robotics" on International Conference on Swarm Intelligence (ICSI’ 2024)
+
 
