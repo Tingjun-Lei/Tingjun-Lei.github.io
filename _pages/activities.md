@@ -16,6 +16,7 @@ Journal Editor
 
 Conference and Session Organizer
 ======
+* Publicity Chair: 2025 International Conference on Computer Vision, Pattern Recognition and Artificial Intelligence (CVPRAI 2025)
 * Session Chair: 2024 IEEE 4th Cyber Awareness and Research Symposium 2024 (CARS' 2024)
 * Special Session Organizer: "Biologically Inspired Intelligence for Mechatronics and Robotics" on International Conference on Swarm Intelligence (ICSI’ 2024)
 
