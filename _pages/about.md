@@ -32,6 +32,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [11/2024] Tingjun received UND’s Early Career Scholars Program (ECSP) Award (Co-PI) to support our Anomaly Behavior Analysis research. Thanks, UND!
+
 - [11/2024] Tingjun served as Publicity Chair of International Conference on Computer Vision, Pattern Recognition and Artificial Intelligence (CVPRAI 2025)!
 
 - [10/2024] Tingjun served as Session Chair of IEEE 4th Cyber Awareness and Research Symposium 2024 (CARS'24)!
