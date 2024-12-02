@@ -22,6 +22,7 @@ Conference and Session Organizer
 
 Conference Program Committee
 ======
+* 2025 5th International Conference on Information Communication and Software Engineering (ICICSE 2025)
 * 2025 7th International Conference on Mechatronics Systems and Control Engineering (ICMSCE 2025) 
 * 2025 9th International Conference on Artificial Intelligence, Automation and Control Technologies (AIACT 2025)
 * 2025 International Conference on Computer Science and Artificial Intelligence Applications (CSAIA 2025)
