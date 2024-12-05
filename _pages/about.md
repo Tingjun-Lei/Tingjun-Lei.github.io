@@ -21,7 +21,7 @@ Email: Tingjun dot Lei at UND dot edu
 
 About Me
 ======
-Dr. Tingjun Lei is currently an Assistant Professor in the School of Electrical Engineering and Computer Science at University of North Dakota. He received his Ph. D. degree in Electrical and Computer Engineering from Mississippi State University in 2023 under Dr. Chaomin Luo. His research spans across multiple areas, including bio-inspired artificial intelligence (AI), robotics and autonomous systems, optimization and evolutionary computation, human-autonomy teaming (HAT), intelligent transportation systems, and applied machine learning.
+Dr. Tingjun Lei is currently an Assistant Professor in the School of Electrical Engineering and Computer Science at University of North Dakota. He received his Ph. D. degree in Electrical and Computer Engineering from Mississippi State University under Dr. Chaomin Luo. His research spans across multiple areas, including bio-inspired artificial intelligence (AI), robotics and autonomous systems, optimization and evolutionary computation, human-autonomy teaming (HAT), intelligent transportation systems, and applied machine learning.
 
 <strong style="color: red;">Call for Papers: "Biologically Inspired Neural Networks and Learning Systems for Robotics and Mechatronics" Special Session in IJCNN 2025</strong>\
 As the Special Session Main Organizer and Area Chair for the special session in  <strong style="color: black;">2025 International Joint Conference on Neural Networks (Flagship Conference in Neural Networks Theory)</strong>, I invite researchers to submit their work on the latest developments of the related track. The deadline for submissions is January 15, 2025.
