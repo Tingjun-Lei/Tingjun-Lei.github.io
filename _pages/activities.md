@@ -30,7 +30,7 @@ Conference Program Committee
 * 2025 International Conference on Computer Science and Artificial Intelligence Applications (CSAIA 2025)
 * 2025 Asia Conference on Communications and 6G (ACC6G 2025)
 * 2025 5th Asia Conference on Information Engineering (ACIE 2025)
-* 2025 10th International Conference on Recent Trends in Mechanical Engineering (RTME 2025）
+* 2025 10th International Conference on Recent Trends in Mechanical Engineering (RTME 2025)
 * 2025 International Conference on Advanced Machine Learning and Data Science (AMLDS 2025)
 * 2025 9th International Conference on Machine Learning and Soft Computing (ICMLSC 2025)
 * 2024 International Conference on Information Science and Techniques (ISTECH 2024)
