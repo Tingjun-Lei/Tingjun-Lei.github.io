@@ -37,7 +37,9 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
-- [12/2024] Tingjun organized Special Session: "Biologically Inspired Neural Networks and Learning Systems for Robotics and Mechatronics" in <b>IJCNN 2025</b>!  
+- [12/2024] Tingjun organized Special Session: <a href="https://tingjun-lei.github.io/CEC2025_SS.github.io/" target="_blank">"Bio-inspired Intelligence and Evolutionary Computation for Robotics and Autonomous Systems"</a> in <b>IEEE CEC 2025</b>!  
+
+- [12/2024] Tingjun organized Special Session: <a href="https://tingjun-lei.github.io/IJCNN2025_SS.github.io/" target="_blank">"Biologically Inspired Neural Networks and Learning Systems for Robotics and Mechatronics"</a> in <b>IJCNN 2025</b>!  
 
 - [11/2024] Tingjun received UND’s Early Career Scholars Program (ECSP) Award (Co-PI) to support our Anomaly Behavior Analysis research. Thanks, UND!
 
