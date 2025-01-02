@@ -28,6 +28,9 @@ As the Special Session Main Organizer for the special session <a href="https://t
 <strong style="color: red;">Call for Papers: "Bio-inspired Intelligence and Evolutionary Computation for Robotics and Autonomous Systems" Special Session in IEEE CEC 2025</strong>\
 As the Special Session Main Organizer for the special session <a href="https://tingjun-lei.github.io/CEC2025_SS.github.io/" target="_blank">"Bio-inspired Intelligence and Evolutionary Computation for Robotics and Autonomous Systems"</a> in  <strong style="color: black;">2025 IEEE Congress on Evolutionary Computation (Flagship Conference in Evolutionary Computation)</strong>, I invite researchers to submit their work on the latest developments of the related track. The deadline for submissions is January 15, 2025.
 
+<strong style="color: red;">Call for Papers: "Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications" Special Issue in Intelligence and Robotics journal</strong>\
+We orgnaized <a href="https://www.oaepublish.com/specials/ir.2369" target="_blank">"Smart Robotics and Autonomous Systems" Special Issue</a> in the Intelligence and Robotics journal. I invite researchers to submit their work on the latest developments in Bio-inspired Intelligence, Robotics Applications, and Autonomous Systems. The deadline for submissions is Sepeteember 29, 2025.
+
 <strong style="color: red;">Call for Papers: "Smart Robotics and Autonomous Systems" Special Issue in Electronics MDPI Journal</strong>\
 As the guest editor for the <a href="https://www.mdpi.com/journal/electronics/special_issues/SRAS" target="_blank">"Smart Robotics and Autonomous Systems" Special Issue</a> in the Electronics MDPI journal, I invite researchers to submit their work on the latest developments in Robotics and Autonomous Systems. The deadline for submissions is February 15, 2025.
 <!-- 
@@ -37,6 +40,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [01/2025] Tingjun organized the <a href="https://www.oaepublish.com/specials/ir.2369" target="_blank">"Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications" Special Issue</a> in the Intelligence and Robotics journal!
+
 - [12/2024] Tingjun organized Special Session: <a href="https://tingjun-lei.github.io/CEC2025_SS.github.io/" target="_blank">"Bio-inspired Intelligence and Evolutionary Computation for Robotics and Autonomous Systems"</a> in <b>IEEE CEC 2025</b>!  
 
 - [12/2024] Tingjun organized Special Session: <a href="https://tingjun-lei.github.io/IJCNN2025_SS.github.io/" target="_blank">"Biologically Inspired Neural Networks and Learning Systems for Robotics and Mechatronics"</a> in <b>IJCNN 2025</b>!  
