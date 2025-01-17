@@ -22,7 +22,7 @@ redirect_from:
 
   <div class="col-sm-6 clearfix">
     <p><img src="/images/Ashwin.jpg" class="img-responsive" width="25%" style="float: left"></p>
-    <h3>&nbsp;&nbsp;&nbsp;Ashwin Mukunda Devanga</h3>
+    <h3>&nbsp;&nbsp;&nbsp;<a href="https://www.ashwindevanga.com/" target="_blank">Ashwin Mukunda Devanga</a></h3>
     <p><i>&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Student </i></p>
     <ul style="overflow: hidden">
   <li> M.S., Data Analytics Engineering, Northeastern University, USA </li>
