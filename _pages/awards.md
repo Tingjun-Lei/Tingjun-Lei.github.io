@@ -11,6 +11,8 @@ redirect_from:
 
 * 2025 &nbsp; Early Career Scholars Award  <i>(University of North Dakota)</i>
 
+* 2025 &nbsp; Distinguished Reviewers in 2024.  <i>(Intelligence and Robotics)</i>
+
 * 2024 &nbsp; Best Paper Award  <i>("Enhancing Student Learning in Robot Path Planning Optimization through Graph-Based Methods", 2024 ASEE Annual Conference, Electrical and Computer Engineering Division)</i>
 
 * 2023 &nbsp; Poster Presentation Winner <i>(Arkansas Engineering Forum: Southeast Symposium on Contemporary Engineering Topics, SSCET 2023)</i>
