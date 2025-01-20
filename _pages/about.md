@@ -23,10 +23,10 @@ About Me
 Dr. Tingjun Lei is currently an Assistant Professor in the School of Electrical Engineering and Computer Science at University of North Dakota. He received his Ph.D. degree in Electrical and Computer Engineering from Mississippi State University under Dr. Chaomin Luo. His research spans across multiple areas, including bio-inspired artificial intelligence (AI), robotics and autonomous systems, optimization and evolutionary computation, human-autonomy teaming (HAT), intelligent transportation systems, and applied machine learning.
 
 <strong style="color: red;">Call for Papers: "Biologically Inspired Neural Networks and Learning Systems for Robotics and Mechatronics" Special Session in IJCNN 2025</strong>\
-As the Special Session Main Organizer for the special session <a href="https://tingjun-lei.github.io/IJCNN2025_SS.github.io/" target="_blank">"Biologically Inspired Neural Networks and Learning Systems for Robotics and Mechatronics"</a> in  <strong style="color: black;">2025 International Joint Conference on Neural Networks (Flagship Conference in Neural Networks Theory)</strong>, I invite researchers to submit their work on the latest developments of the related track. The deadline for submissions is January 15, 2025.
+As the Special Session Main Organizer for the special session <a href="https://tingjun-lei.github.io/IJCNN2025_SS.github.io/" target="_blank">"Biologically Inspired Neural Networks and Learning Systems for Robotics and Mechatronics"</a> in  <strong style="color: black;">2025 International Joint Conference on Neural Networks (Flagship Conference in Neural Networks Theory)</strong>, I invite researchers to submit their work on the latest developments of the related track. The deadline for submissions is January 30, 2025.
 
 <strong style="color: red;">Call for Papers: "Bio-inspired Intelligence and Evolutionary Computation for Robotics and Autonomous Systems" Special Session in IEEE CEC 2025</strong>\
-As the Special Session Main Organizer for the special session <a href="https://tingjun-lei.github.io/CEC2025_SS.github.io/" target="_blank">"Bio-inspired Intelligence and Evolutionary Computation for Robotics and Autonomous Systems"</a> in  <strong style="color: black;">2025 IEEE Congress on Evolutionary Computation (Flagship Conference in Evolutionary Computation)</strong>, I invite researchers to submit their work on the latest developments of the related track. The deadline for submissions is January 15, 2025.
+As the Special Session Main Organizer for the special session <a href="https://tingjun-lei.github.io/CEC2025_SS.github.io/" target="_blank">"Bio-inspired Intelligence and Evolutionary Computation for Robotics and Autonomous Systems"</a> in  <strong style="color: black;">2025 IEEE Congress on Evolutionary Computation (Flagship Conference in Evolutionary Computation)</strong>, I invite researchers to submit their work on the latest developments of the related track. The deadline for submissions is January 31, 2025.
 
 <strong style="color: red;">Call for Papers: "Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications" Special Issue in Intelligence and Robotics journal</strong>\
 We orgnaized Special Issue <a href="https://www.oaepublish.com/specials/ir.2369" target="_blank">"Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications"</a> in the Intelligence and Robotics journal. I invite researchers to submit their work on the latest developments in Bio-inspired Intelligence, Robotics Applications, and Autonomous Systems. The deadline for submissions is Sepeteember 29, 2025.
@@ -40,7 +40,7 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
-- [01/2025] Tingjun have been selected as one of the <a href="https://www.oaepublish.com/news/ir.993" target="_blank">Distinguished Reviewers for Intelligence and Robotics in 2024</a>.
+- [01/2025] Tingjun was named as the <a href="https://www.oaepublish.com/news/ir.993" target="_blank">Distinguished Reviewer for Intelligence and Robotics in 2024</a>!
 
 - [01/2025] Tingjun organized the Special Issue <a href="https://www.oaepublish.com/specials/ir.2369" target="_blank">"Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications"</a> in the Intelligence and Robotics journal!
 
