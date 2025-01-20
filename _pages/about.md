@@ -40,6 +40,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [01/2025] Tingjun have been selected as one of the <a href="https://www.oaepublish.com/news/ir.993" target="_blank">Distinguished Reviewers for Intelligence and Robotics in 2024</a>.
+
 - [01/2025] Tingjun organized the Special Issue <a href="https://www.oaepublish.com/specials/ir.2369" target="_blank">"Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications"</a> in the Intelligence and Robotics journal!
 
 - [12/2024] Tingjun organized Special Session: <a href="https://tingjun-lei.github.io/CEC2025_SS.github.io/" target="_blank">"Bio-inspired Intelligence and Evolutionary Computation for Robotics and Autonomous Systems"</a> in <b>IEEE CEC 2025</b>!  
