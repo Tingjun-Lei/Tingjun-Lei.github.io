@@ -40,7 +40,9 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
-- [01/2025] Tingjun was named as the <a href="https://www.oaepublish.com/news/ir.993" target="_blank">Distinguished Reviewer for Intelligence and Robotics in 2024</a>!
+- [01/2025] Our paper “Graph-Based Robot Optimal Path Planning with Bio-Inspired Algorithms” has been appraised as <strong style="color: red;">Best Paper</strong> of <i>Biomimetic Intelligence and Robotics</i> in 2024!
+
+- [01/2025] Tingjun was named as the <a href="https://www.oaepublish.com/news/ir.993" target="_blank">Distinguished Reviewer</a> for <i>Intelligence and Robotics</i> in 2024!
 
 - [01/2025] Tingjun organized the Special Issue <a href="https://www.oaepublish.com/specials/ir.2369" target="_blank">"Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications"</a> in the Intelligence and Robotics journal!
 
