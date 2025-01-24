@@ -55,7 +55,7 @@ P. Chintam, <i><b>Tingjun Lei</b></i>,  B. Osmanoglu, Y. Wang, and C. Luo,
 <b>Graph-Based Robot Optimal Path Planning with Bio-Inspired Algorithms<br>
 [ <a href="https://doi.org/10.1016/j.birob.2023.100119" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/373179541_Graph-based_Robot_Optimal_Path_Planning_with_Bio-inspired_Algorithms" target="_blank">ResearchGate</a>  ]</b> <br>
 <i><b>Tingjun Lei</b></i>, T. Sellers, C. Luo, D.W. Carruth, and Z. Bi,
-<i>Biomimetic Intelligence and Robotics</i>, vol. 3, no. 3, p. 100119, Sep. 2023, doi:10.1016/j.birob.2023.100119. 
+<i>Biomimetic Intelligence and Robotics</i>, vol. 3, no. 3, p. 100119, Sep. 2023, doi:10.1016/j.birob.2023.100119. <b> <span style="font-weight: bold; color: red;">(Best Paper Award)</span></b> 
 
 
 1. 
