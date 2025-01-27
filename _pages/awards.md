@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-* 2025 &nbsp; Early Career Scholars Award  <i>(University of North Dakota)</i>
+* 2025 &nbsp; Early Career Scholars Award <i>(University of North Dakota)</i>
 
-* 2024 Best Junior Editorial Member <i>(Intelligence and Robotics Journal)</i>
+* 2024 &nbsp; Best Junior Editorial Member <i>(Intelligence and Robotics Journal)</i>
 
 * 2024 &nbsp; Best Paper Award  <i>(“Graph-Based Robot Optimal Path Planning with Bio-Inspired Algorithms”, Biomimetic Intelligence and Robotics)</i>
 
