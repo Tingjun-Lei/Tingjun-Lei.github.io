@@ -40,6 +40,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [02/2025] Tingjun was appointed as a Youth Editorial Board Member for the  <i>Robot Learning</i>  journal.
+
 - [01/2025] Tingjun was honored as a <a href="https://www.oaepublish.com/news/ir.1026" target="_blank">Best Junior Editorial Member</a> for the journal <i>Intelligence and Robotics</i> in 2024!
 
 - [01/2025] Our paper “Graph-Based Robot Optimal Path Planning with Bio-Inspired Algorithms” has been appraised as <strong style="color: red;">Best Paper</strong> of <i>Biomimetic Intelligence and Robotics</i> in 2024!
