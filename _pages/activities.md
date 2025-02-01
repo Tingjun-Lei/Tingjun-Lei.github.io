@@ -12,6 +12,7 @@ redirect_from:
 Journal Editor and Special Issue Organizer
 ======
 * 2024-2026 Editorial Board Member, <a href="https://www.oaepublish.com/ir" target="_blank">Intelligence and Robotics</a>
+* 2025-2027 Youth Editorial Board Member, <a href="https://www.elspub.com/journals/robot-learning/home/">Robot Learning</a>
 * 2025 Special Issue Guest Editor, Intelligence and Robotics (Special Issue: <a href="https://www.oaepublish.com/specials/ir.2369" target="_blank">Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications</a>)
 * 2024-2025 Special Issue Guest Editor, Electronics (Special Issue: <a href="https://www.mdpi.com/journal/electronics/special_issues/SRAS" target="_blank">Smart Robotics and Autonomous Systems</a> )
 
