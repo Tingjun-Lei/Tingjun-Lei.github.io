@@ -57,7 +57,7 @@ redirect_from:
 
   <div class="col-sm-6 clearfix">
     <p><img src="/images/YeKetian.jpg" class="img-responsive" width="25%" style="float: left"></p>
-    <h3>&nbsp;&nbsp;&nbsp;Ketian Ye, Ph.D.</h3>
+    <h3>&nbsp;&nbsp;&nbsp;Ketian Ye</h3>
     <p><i>&nbsp;&nbsp;&nbsp;&nbsp;Research Associate </i></p>
     <ul style="overflow: hidden">
   <li> Ph.D., Electrical and Computer Engineering, University of Connecticut, USA </li>
