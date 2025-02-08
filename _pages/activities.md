@@ -26,6 +26,7 @@ Conference and Session Organizer
 
 Conference Program Committee
 ======
+* 2025 16th International Conference on Swarm Intelligence (ICSI’ 2025)
 * 2025 11th International Conference on Mechanical Engineering and Automation Science (ICMEAS 2025) 
 * 2025 5th International Conference on Information Communication and Software Engineering (ICICSE 2025)
 * 2025 7th International Conference on Mechatronics Systems and Control Engineering (ICMSCE 2025) 
