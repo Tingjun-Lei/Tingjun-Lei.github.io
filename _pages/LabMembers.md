@@ -34,6 +34,18 @@ redirect_from:
 <br>
 
   <div class="col-sm-6 clearfix">
+    <p><img src="/images/Samuel.jpg" class="img-responsive" width="25%" style="float: left"></p>
+    <h3>&nbsp;&nbsp;&nbsp;Samuel Steen</h3>
+    <p><i>&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Student </i></p>
+    <ul style="overflow: hidden">
+  <li> B.S., Electrical Engineering, University of Colorado -- Denver, USA </li>
+  </ul>
+  </div>
+<br>
+<br>
+<br>
+
+  <div class="col-sm-6 clearfix">
     <p><img src="/images/Justin.jpg" class="img-responsive" width="25%" style="float: left"></p>
     <h3>&nbsp;&nbsp;&nbsp;Justin London</h3>
     <p><i>&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Student </i></p>
