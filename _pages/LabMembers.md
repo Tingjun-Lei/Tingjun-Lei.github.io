@@ -58,7 +58,6 @@ redirect_from:
   <li> M.S., Computer and Information Science, University of Michigan-Dearborn, USA </li>
   </ul>
   </div>
-
 </div>
 
 </div>
