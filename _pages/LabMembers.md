@@ -53,9 +53,6 @@ redirect_from:
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 
   <div class="col-sm-6 clearfix">
