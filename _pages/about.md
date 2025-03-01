@@ -23,7 +23,7 @@ About Me
 Dr. Tingjun Lei is currently an Assistant Professor in the School of Electrical Engineering and Computer Science at University of North Dakota. He received his Ph.D. degree in Electrical and Computer Engineering from Mississippi State University under Dr. Chaomin Luo. His research spans across multiple areas, including bio-inspired artificial intelligence (AI), robotics and autonomous systems, optimization and evolutionary computation, human-autonomy teaming (HAT), intelligent transportation systems, and applied machine learning.
 
 <strong style="color: red;">Call for Papers: "Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications" Special Issue in Intelligence and Robotics journal</strong>\
-We orgnaized Special Issue <a href="https://www.oaepublish.com/specials/ir.2369" target="_blank">"Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications"</a> in the Intelligence and Robotics journal. I invite researchers to submit their work on the latest developments in Bio-inspired Intelligence, Robotics Applications, and Autonomous Systems. The deadline for submissions is Sepeteember 29, 2025.
+We orgnaized Special Issue <a href="https://www.oaepublish.com/specials/ir.2369" target="_blank">"Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications"</a> in  <i>Intelligence and Robotics</i>. I invite researchers to submit their work on the latest developments in Bio-inspired Intelligence, Robotics Applications, and Autonomous Systems. The deadline for submissions is September 29, 2025.
 
 <!-- 
 <strong style="color: red;">Multiple Ph.D. Assistantship Positions are Available:</strong>\
@@ -32,17 +32,17 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
-- [02/2025] Tingjun was appointed as an <strong style="color: black;">Early Career Editorial Board Member</strong> for <a href="https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics" target="_blank"><i>Biomimetic Intelligence and Robotics</i></a>.
+- [03/2025] Tingjun was appointed as an <strong style="color: black;">Early Career Editorial Board Member</strong> for <a href="https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics" target="_blank"><i>Biomimetic Intelligence and Robotics</i></a>!
 
-- [02/2025] Tingjun was appointed as a <strong style="color: black;">Youth Editorial Board Member</strong> for <a href="https://www.elspub.com/journals/robot-learning/home/" target="_blank"><i>Robot Learning</i></a>.
+- [02/2025] Tingjun was appointed as a <strong style="color: black;">Youth Editorial Board Member</strong> for <a href="https://www.elspub.com/journals/robot-learning/home/" target="_blank"><i>Robot Learning</i></a>!
 
-- [01/2025] Tingjun was honored as a <a href="https://www.oaepublish.com/news/ir.1026" target="_blank">Best Junior Editorial Member</a> for the journal <i>Intelligence and Robotics</i> in 2024!
+- [01/2025] Tingjun was honored as a <a href="https://www.oaepublish.com/news/ir.1026" target="_blank">Best Junior Editorial Member</a> for <i>Intelligence and Robotics</i> in 2024!
 
 - [01/2025] Our paper “Graph-Based Robot Optimal Path Planning with Bio-Inspired Algorithms” has been appraised as <strong style="color: red;">Best Paper</strong> of <i>Biomimetic Intelligence and Robotics</i> in 2024!
 
-- [01/2025] Tingjun was named as the <a href="https://www.oaepublish.com/news/ir.993" target="_blank">Distinguished Reviewer</a> for <i>Intelligence and Robotics</i> journal in 2024!
+- [01/2025] Tingjun was named as the <a href="https://www.oaepublish.com/news/ir.993" target="_blank">Distinguished Reviewer</a> for <i>Intelligence and Robotics</i> in 2024!
 
-- [01/2025] Tingjun organized the Special Issue <a href="https://www.oaepublish.com/specials/ir.2369" target="_blank">"Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications"</a> in the  <i>Intelligence and Robotics</i> journal!
+- [01/2025] Tingjun organized the Special Issue <a href="https://www.oaepublish.com/specials/ir.2369" target="_blank">"Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications"</a> in   <i>Intelligence and Robotics</i>!
 
 - [12/2024] Tingjun organized Special Session: <a href="https://tingjun-lei.github.io/CEC2025_SS.github.io/" target="_blank">"Bio-inspired Intelligence and Evolutionary Computation for Robotics and Autonomous Systems"</a> in <b>IEEE CEC 2025</b>!  
 
@@ -58,7 +58,7 @@ News
 
 - [08/2024] Tingjun was appointed as a <strong style="color: black;">Editorial Board Member</strong> of <a href="https://www.oaepublish.com/ir" target="_blank"><i>Intelligence & Robotics</i></a>! 
 
-- [08/2024] Tingjun served as the guest editor and organized the Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/SRAS" target="_blank">"Smart Robotics and Autonomous Systems"</a> in the Electronics MDPI journal!
+- [08/2024] Tingjun served as the guest editor and organized the Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/SRAS" target="_blank">"Smart Robotics and Autonomous Systems"</a> in  Electronics MDPI!
 
 - [08/2024] Tingjun and his team started a new journey at UND!
 
@@ -74,7 +74,7 @@ News
 
 - [03/2024] Our four papers have been accepted by <i>ASEE 2024</i>!
 
-- [03/2024] Tingjun was appointed as a <strong style="color: black;">Junior Editorial Board Member</strong> of <a href="https://www.oaepublish.com/ir" target="_blank">Intelligence & Robotics</a>! 
+- [03/2024] Tingjun was appointed as a <strong style="color: black;">Junior Editorial Board Member</strong> of <a href="https://www.oaepublish.com/ir" target="_blank"><i>Intelligence & Robotics</i></a>! 
 
 - [02/2024] Our paper “Enhancing Human-Robot Cohesion through HAT Methods: A Crowd-Avoidance Model for Safety Aware Navigation” has been accepted by <b>IEEE ICHMS 2024</b>!
 
