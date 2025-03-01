@@ -32,7 +32,9 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
-- [02/2025] Tingjun was appointed as a Youth Editorial Board Member for the  <i>Robot Learning</i>  journal.
+- [02/2025] Tingjun was appointed as an <strong style="color: black;">Early Career Editorial Board Member</strong> for <a href="https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics" target="_blank"><i>Biomimetic Intelligence and Robotics</i></a>.
+
+- [02/2025] Tingjun was appointed as a <strong style="color: black;">Youth Editorial Board Member</strong> for <a href="https://www.elspub.com/journals/robot-learning/home/" target="_blank"><i>Robot Learning</i></a>.
 
 - [01/2025] Tingjun was honored as a <a href="https://www.oaepublish.com/news/ir.1026" target="_blank">Best Junior Editorial Member</a> for the journal <i>Intelligence and Robotics</i> in 2024!
 
@@ -54,7 +56,7 @@ News
 
 - [09/2024] Our paper "Human Autonomy Teaming-Based Safety-Aware Navigation through Bio-Inspired and Graph-Based Algorithms" has been accepted by <i>Biomimetic Intelligence and Robotics</i>!
 
-- [08/2024] Tingjun was appointed as the <strong style="color: black;">Editorial Board Member</strong> of <a href="https://www.oaepublish.com/ir" target="_blank">Intelligence & Robotics</a>! 
+- [08/2024] Tingjun was appointed as a <strong style="color: black;">Editorial Board Member</strong> of <a href="https://www.oaepublish.com/ir" target="_blank"><i>Intelligence & Robotics</i></a>! 
 
 - [08/2024] Tingjun served as the guest editor and organized the Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/SRAS" target="_blank">"Smart Robotics and Autonomous Systems"</a> in the Electronics MDPI journal!
 
@@ -72,7 +74,7 @@ News
 
 - [03/2024] Our four papers have been accepted by <i>ASEE 2024</i>!
 
-- [03/2024] Tingjun was appointed as the <strong style="color: black;">Junior Editorial Board Member</strong> of <a href="https://www.oaepublish.com/ir" target="_blank">Intelligence & Robotics</a>! 
+- [03/2024] Tingjun was appointed as a <strong style="color: black;">Junior Editorial Board Member</strong> of <a href="https://www.oaepublish.com/ir" target="_blank">Intelligence & Robotics</a>! 
 
 - [02/2024] Our paper “Enhancing Human-Robot Cohesion through HAT Methods: A Crowd-Avoidance Model for Safety Aware Navigation” has been accepted by <b>IEEE ICHMS 2024</b>!
 
