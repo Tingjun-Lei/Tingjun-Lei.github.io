@@ -48,7 +48,7 @@ News
 
 - [12/2024] Tingjun organized Special Session: <a href="https://tingjun-lei.github.io/IJCNN2025_SS.github.io/" target="_blank">"Biologically Inspired Neural Networks and Learning Systems for Robotics and Mechatronics"</a> in <b>IJCNN 2025</b>!  
 
-- [11/2024] Tingjun received UND’s Early Career Scholars Program (ECSP) Award (Co-PI) to support our Anomaly Behavior Analysis research. Thanks, UND!
+- [11/2024] Tingjun received UND’s <b>Early Career Scholars Program (ECSP) Award</b> to support our Anomaly Behavior Analysis research. Thanks, UND!
 
 - [11/2024] Tingjun served as Publicity Chair of International Conference on Computer Vision, Pattern Recognition and Artificial Intelligence (CVPRAI 2025)!
 
