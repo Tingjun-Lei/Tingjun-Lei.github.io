@@ -27,6 +27,7 @@ Conference and Session Organizer
 
 Conference Program Committee
 ======
+* 2025 10th International Conference on Automation, Control and Robotics Engineering (CACRE 2025)
 * 2025 International Conference on Medical Robotics and Artificial Intelligence (CMRAI 2025)
 * 2025 5th International Conference on Artificial Intelligence, Automation and Algorithms (AI2A 2025)
 * 2025 16th International Conference on Swarm Intelligence (ICSI’ 2025)
