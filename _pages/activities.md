@@ -27,6 +27,7 @@ Conference and Session Organizer
 
 Conference Program Committee
 ======
+* 2025 8th International Conference on Machine Learning and Machine Intelligence (MLMI 2025)
 * 2025 4th International Conference on Artificial Intelligence and Intelligent Information Processing (AIIIP 2025)
 * 2025 10th International Conference on Automation, Control and Robotics Engineering (CACRE 2025)
 * 2025 International Conference on Medical Robotics and Artificial Intelligence (CMRAI 2025)
