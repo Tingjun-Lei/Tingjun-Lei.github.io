@@ -34,7 +34,7 @@ News
 ======
 - [03/2025] Our paper "A Bio-Inspired Goal-Directed Cognitive Map Model for Robot Navigation and Exploration" has been accepted by <strong style="color: black;">IEEE Transactions on Cognitive and Developmental Systems</strong>!
 
-- [03/2025] Tingjun was appointed as an <strong style="color: black;">Early Career Editorial Board Member</strong> for <a href="https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics" target="_blank"><i>Biomimetic Intelligence and Robotics</i></a>!
+- [02/2025] Tingjun was appointed as an <strong style="color: black;">Early Career Editorial Board Member</strong> for <a href="https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics" target="_blank"><i>Biomimetic Intelligence and Robotics</i></a>!
 
 - [02/2025] Tingjun was appointed as a <strong style="color: black;">Youth Editorial Board Member</strong> for <a href="https://www.elspub.com/journals/robot-learning/home/" target="_blank"><i>Robot Learning</i></a>!
 
