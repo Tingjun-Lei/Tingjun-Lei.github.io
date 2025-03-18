@@ -32,6 +32,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [03/2025] Our two papers has been accepted by <b>IEEE CEC 2025</b>. Congratulations, Samuel!
+
 - [03/2025] Our paper "A Bio-Inspired Goal-Directed Cognitive Map Model for Robot Navigation and Exploration" has been accepted by <strong style="color: black;">IEEE Transactions on Cognitive and Developmental Systems</strong>!
 
 - [02/2025] Tingjun was appointed as an <strong style="color: black;">Early Career Editorial Board Member</strong> for <a href="https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics" target="_blank"><i>Biomimetic Intelligence and Robotics</i></a>!
