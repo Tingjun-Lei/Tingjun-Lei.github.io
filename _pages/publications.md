@@ -17,7 +17,7 @@ Journals
 ======
 1. 
 <b>A Bio-Inspired Goal-Directed Cognitive Map Model for Robot Navigation and Exploration<br>
-[ <a href="https://doi.org/10.1109/TCDS.2025.3552085" target="_blank">Link</a>  ]</b><br>
+[ <a href="https://doi.org/10.1109/TCDS.2025.3552085" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/389954544_A_Bio-Inspired_Goal-Directed_Cognitive_Map_Model_for_Robot_Navigation_and_Exploration" target="_blank">ResearchGate</a>  ]</b><br>
 M. Hicks, <i><b>Tingjun Lei</b></i>, C. Luo, D.W. Carruth, and Z. Bi, 
 <i>IEEE Transactions on Cognitive and Developmental Systems</i>, Mar. 2025, doi:10.1109/TCDS.2025.3552085.
 
