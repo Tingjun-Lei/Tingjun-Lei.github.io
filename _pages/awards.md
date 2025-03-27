@@ -13,7 +13,7 @@ redirect_from:
 
 * 2024 &nbsp; Best Junior Editorial Member <i>(Intelligence and Robotics Journal)</i>
 
-* 2024 &nbsp; Best Paper Award  <i>(“Graph-Based Robot Optimal Path Planning with Bio-Inspired Algorithms”, Biomimetic Intelligence and Robotics)</i>
+* 2024 &nbsp; Best Paper Award  <i>(“Graph-Based Robot Optimal Path Planning with Bio-Inspired Algorithms”, Biomimetic Intelligence and Robotics Journal)</i>
 
 * 2024 &nbsp; Distinguished Reviewer  <i>(Intelligence and Robotics Journal)</i>
 
