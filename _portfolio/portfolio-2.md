@@ -1,11 +1,12 @@
 ---
-title: "Biologically Inspired Artificial Intelligence"
+title: "Biologically Inspired Artificial Intelligence (BIAI)"
 excerpt: "Bio-inspired models are computational models designed to mimic the structure and function of neuroscience to achieve intelligent behavior in autonomous systems. <br/><img src='/images/BNN2.JPG'>"
 collection: portfolio
 ---
 
 
-Biologically Inspired Artificial Intelligence (BIAI) refers to computational models that are designed to emulate the structure and function of biological neural systems, particularly those found in neuroscience. By drawing inspiration from the brain’s and neural's mechanisms for processing information, learning, and adaptation, BIAI aims to enable intelligent behaviors in robotic systems. These models often replicate features such as neural connectivity, plasticity, and sensory integration, allowing robots to perceive, reason, and act more naturally and autonomously in complex environments.
+Biologically Inspired Artificial Intelligence (BIAI) refers to computational models and algorithms that emulate the structure, function, and adaptive capabilities of biological neural systems, particularly those observed in neuroscience. By leveraging principles such as neural connectivity, plasticity, sensory integration, and learning dynamics, BIAI seeks to replicate the brain’s mechanisms for perception, decision-making, and adaptation. These biologically grounded approaches enable robotic and autonomous systems to exhibit more natural, robust, and flexible behaviors when operating in complex, uncertain, or dynamic environments.
+
 
 <img src='/images/BNN1.JPG'>
 
