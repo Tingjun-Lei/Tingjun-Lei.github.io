@@ -44,7 +44,7 @@ News
 
 - [01/2025] Tingjun was honored as a <a href="https://www.oaepublish.com/news/ir.1026" target="_blank">Best Junior Editorial Member</a> for <i>Intelligence and Robotics</i> in 2024!
 
-- [01/2025] Our paper “Graph-Based Robot Optimal Path Planning with Bio-Inspired Algorithms” has been appraised as <strong style="color: red;">Best Paper</strong> of <i>Biomimetic Intelligence and Robotics</i> in 2024!
+- [01/2025] Our paper “Graph-Based Robot Optimal Path Planning with Bio-Inspired Algorithms” has been appraised as <strong style="color: red;">Best Paper</strong> of <i>Biomimetic Intelligence and Robotics</i> in 2024! [<a href="https://www.ece.msstate.edu/ece-based-team-receives-elseviers-biomimetic-intelligence-and-robotics-best-paper-award/" target="_blank">Newsroom</a>]
 
 - [01/2025] Tingjun was named as the <a href="https://www.oaepublish.com/news/ir.993" target="_blank">Distinguished Reviewer</a> for <i>Intelligence and Robotics</i> in 2024!
 
