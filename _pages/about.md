@@ -32,6 +32,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [05/2025] Our two papers have been accepted by <b>IEEE MWSCAS 2025</b>. Congratulations, Justin!
+
 - [05/2025] Our three papers have been accepted by <b>IEEE FIE 2025</b>! 
 
 - [04/2025] Our paper "A Neural Network Approach to Image-Based Navigation and Localization" has been accepted by <b>IJCNN 2025</b> (flagship conference in the field of Computational Intelligence)!
