@@ -133,7 +133,7 @@ M. Hicks, <i><b>Tingjun Lei</b></i>, C. Luo, L. Liu, and Z. Bi,
 1. 
 <b>A Moss Growth Optimization Approach to Robot Path Planning<br>
 [ <a href="http://dx.doi.org/10.1109/CEC65147.2025.11043085" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/392989044_A_Moss_Growth_Optimization_Approach_to_Robot_Path_Planning" target="_blank">ResearchGate</a>  ]</b> <br>
-S. Steen, T. Lei, C. Luo, S. Shao, and L. Gong,
+S. Steen, <i><b>Tingjun Lei</b></i>, C. Luo, S. Shao, and L. Gong,
 <i>2025 IEEE Congress on Evolutionary Computation (CEC)</i>,   Hangzhou, China, 2025, pp. 1-4, doi: 10.1109/CEC65147.2025.11043085.
 
 
