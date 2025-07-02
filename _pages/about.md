@@ -32,6 +32,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [06/2025] Our paper recognized with honorable mention awards at 2025 IJCNN conference!
+
 - [05/2025] Our two papers have been accepted by <b>IEEE MWSCAS 2025</b>. Congratulations, Justin!
 
 - [05/2025] Our three papers have been accepted by <b>IEEE FIE 2025</b>! 
