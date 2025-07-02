@@ -124,6 +124,18 @@ T. Sellers, <i><b>Tingjun Lei</b></i>, C. Luo, G.E. Jan, and J. Ma,
 Conferences
 ======
 
+1. 
+<b>A Bio-Inspired Goal-Directed Cognitive Map Approach to Robot Navigation and Mapping<br>
+[ <a href="http://dx.doi.org/10.1109/CEC65147.2025.11042975" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/392988207_A_Bio-Inspired_Goal-Directed_Cognitive_Map_Approach_to_Robot_Navigation_and_Mapping" target="_blank">ResearchGate</a>  ]</b> <br>
+M. Hicks, <i><b>Tingjun Lei</b></i>, C. Luo, L. Liu, and Z. Bi,
+<i>2025 IEEE Congress on Evolutionary Computation (CEC)</i>,   Hangzhou, China, 2025, pp. 1-6, doi: 10.1109/CEC65147.2025.11042975.
+
+1. 
+<b>A Moss Growth Optimization Approach to Robot Path Planning<br>
+[ <a href="http://dx.doi.org/10.1109/CEC65147.2025.11043085" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/392989044_A_Moss_Growth_Optimization_Approach_to_Robot_Path_Planning" target="_blank">ResearchGate</a>  ]</b> <br>
+S. Steen, T. Lei, C. Luo, S. Shao, and L. Gong,
+<i>2025 IEEE Congress on Evolutionary Computation (CEC)</i>,   Hangzhou, China, 2025, pp. 1-4, doi: 10.1109/CEC65147.2025.11043085.
+
 
 1. 
 <b>Optimal Multi-Target Navigation via Graph-Based Algorithms in Complex Environments<br>
