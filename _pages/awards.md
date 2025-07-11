@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* 2025 Honorable Mentions Award <i>(“A Neural Network Approach to Image-Based Navigation and Localization”, 2025 International Joint Conference on Neural Networks (IJCNN))</i>
+* 2025 &nbsp; Honorable Mentions Award <i>(“A Neural Network Approach to Image-Based Navigation and Localization”, 2025 International Joint Conference on Neural Networks)</i>
 
 * 2025 &nbsp; Early Career Scholars Award <i>(University of North Dakota)</i>
 
