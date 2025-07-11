@@ -32,6 +32,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [07/2025] Our paper "Advanced Multi-Target Navigation Using  ADD-RRVS with Double Q-Learning" has been accepted by <b>ICIA 2025</b>!
+
 - [06/2025] Our paper "A Neural Network Approach to Image-Based Navigation and Localization" recognized with Honorable Mentions award at 2025 IJCNN conference!
 
 - [05/2025] Our two papers have been accepted by <b>IEEE MWSCAS 2025</b>. Congratulations, Justin!
