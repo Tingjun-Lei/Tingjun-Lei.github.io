@@ -28,6 +28,9 @@ Conference and Session Organizer
 
 Conference Program Committee
 ======
+* 2026 7th International Conference on Artificial Intelligence, Robotics, and Control (AIRC 2026)
+* 2026 10th International Conference on Artificial Intelligence, Automation and Control Technologies (AIACT 2026)
+* 2025 8th International Conference on Algorithms, Computing and Artificial Intelligence (ACAI 2025) 
 * 2025 9th International Conference on Deep Learning Technologies (ICDLT 2025)
 * 2025 8th International Conference on Machine Learning and Machine Intelligence (MLMI 2025)
 * 2025 4th International Conference on Artificial Intelligence and Intelligent Information Processing (AIIIP 2025)
