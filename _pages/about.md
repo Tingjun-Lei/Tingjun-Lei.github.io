@@ -34,13 +34,13 @@ News
 ======
 - [07/2025] Our paper "Advanced Multi-Target Navigation Using ADD-RRVS with Double Q-Learning" has been accepted by <b>IEEE ICIA 2025</b>!
 
-- [06/2025] Our paper "A Neural Network Approach to Image-Based Navigation and Localization" recognized with Honorable Mentions award at 2025 IJCNN conference!
+- [06/2025] Our paper "A Neural Network Approach to Image-Based Navigation and Localization" recognized with <a href="https://2025.ijcnn.org/program/awards" target="_blank">Honorable Mentions Award</a> at <b>2025 IJCNN</b> conference!
 
 - [05/2025] Our two papers have been accepted by <b>IEEE MWSCAS 2025</b>. Congratulations, Justin!
 
 - [05/2025] Our three papers have been accepted by <b>IEEE FIE 2025</b>! 
 
-- [04/2025] Our paper "A Neural Network Approach to Image-Based Navigation and Localization" has been accepted by <b>IJCNN 2025</b> (flagship conference in the field of Computational Intelligence)!
+- [04/2025] Our paper "A Neural Network Approach to Image-Based Navigation and Localization" has been accepted by <b>2025 IJCNN</b> (flagship conference in the field of Computational Intelligence)!
 
 - [03/2025] Our two papers have been accepted by <b>IEEE CEC 2025</b> (flagship conference in the field of Computational Intelligence). Congratulations, Samuel!
 
