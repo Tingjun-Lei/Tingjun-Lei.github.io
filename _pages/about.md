@@ -32,6 +32,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [08/2025] Our paper has been accepted by <b>NAPS 2025 Annual Conference</b>!
+
 - [08/2025] Our paper "Human Activity Recognition and Biomedical Signal Classification Using Multi-Modal Deep Learning" recognized with Best Paper Finialist at <b>IEEE MWSCAS 2025</b>. Congratulations, Justin!
 
 - [07/2025] Our paper "Advanced Multi-Target Navigation Using ADD-RRVS with Double Q-Learning" has been accepted by <b>IEEE ICIA 2025</b>!
