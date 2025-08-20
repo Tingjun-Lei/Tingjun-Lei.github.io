@@ -28,8 +28,13 @@ Conference and Session Organizer
 
 Conference Program Committee
 ======
+* 2025 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2025)
+* 2026 8th International Conference on Mechatronics Systems and Control Engineering (ICMSCE 2026)
+* 2026 14th International Conference on Intelligent Information Processing (ICIIP 2026)
+* 2026 International Conference on Multi-scale Artificial Intelligence (MAI)
 * 2026 7th International Conference on Artificial Intelligence, Robotics, and Control (AIRC 2026)
 * 2026 10th International Conference on Artificial Intelligence, Automation and Control Technologies (AIACT 2026)
+* 2025 International Symposium on Embodied Intelligence and Humanoid Robots (Roboi 2025)
 * 2025 8th International Conference on Algorithms, Computing and Artificial Intelligence (ACAI 2025) 
 * 2025 9th International Conference on Deep Learning Technologies (ICDLT 2025)
 * 2025 8th International Conference on Machine Learning and Machine Intelligence (MLMI 2025)
