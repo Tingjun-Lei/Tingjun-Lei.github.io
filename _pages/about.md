@@ -32,6 +32,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [10/2025] Our two papers has been accepted by <b>IEEE ROBIO 2025</b>. Congratulations, Ashwin!
+
 - [09/2025] Our six papers has been accepted by <b>IEEE CARS 2025</b>. Congratulations, Ashwin and Samuel!
 
 - [08/2025] Our paper has been accepted by <b>NAPS 2025 Annual Conference</b>!
