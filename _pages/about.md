@@ -21,10 +21,10 @@ Email: Tingjun dot Lei at UND dot edu
 About Me
 ======
 Dr. Tingjun Lei is currently an Assistant Professor in the School of Electrical Engineering and Computer Science at University of North Dakota. He received his Ph.D. degree in Electrical and Computer Engineering from Mississippi State University under Dr. Chaomin Luo. His research spans across multiple areas, including bio-inspired artificial intelligence (AI), robotics and autonomous systems, optimization and evolutionary computation, human-autonomy teaming (HAT), intelligent transportation systems, and applied machine learning.
-
+<!-- 
 <strong style="color: red;">Call for Papers: "Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications" Special Issue in Intelligence and Robotics journal</strong>\
 We orgnaized Special Issue <a href="https://www.oaepublish.com/specials/ir.2369" target="_blank">"Bio-inspired Intelligence for Robotics and Autonomous Systems: Advances and Applications"</a> in  <i>Intelligence and Robotics</i>. I invite researchers to submit their work on the latest developments in Bio-inspired Intelligence, Robotics Applications, and Autonomous Systems. The deadline for submissions is September 29, 2025.
-
+-->
 <!-- 
 <strong style="color: red;">Multiple Ph.D. Assistantship Positions are Available:</strong>\
 Several new fully funded Ph.D. positions are available in the School of Electrical Engineering and Computer Science at University of North Dakota (Grand Forks, ND). Highly motivated students for research with a strong mathematical background and proficiency in computer programming/simulation are welcome. Please contact Dr. Lei for more information (Interested students are encouraged to send your resume and transcripts with your TOEFL and GRE scores).
