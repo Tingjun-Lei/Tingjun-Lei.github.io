@@ -32,7 +32,9 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
-- [10/2025] Tingjun received FIDC Travel Grant to support our teaching pedagogical development. Thanks, UND!
+- [10/2025] Tingjun was appointed as a <strong style="color: black;">Youth Editorial Board Member</strong> for <a href="https://ietresearch.onlinelibrary.wiley.com/journal/26316315" target="_blank"><i>IET Cyber-Systems and Robotics</i></a>!
+
+- [10/2025] Tingjun received <b>FIDC Travel Grant</b> to support our teaching pedagogical development. Thanks, UND!
 
 - [10/2025] Our two papers has been accepted by <b>IEEE ROBIO 2025</b>. Congratulations, Ashwin!
 
