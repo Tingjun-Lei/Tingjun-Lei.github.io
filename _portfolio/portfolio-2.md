@@ -10,7 +10,9 @@ Biologically Inspired Artificial Intelligence (BIAI) refers to computational mod
 
 <img src='/images/BNN1.JPG'>
 
+
 - <a href="https://doi.org/10.1109/TCDS.2025.3552085" target="_blank">A Bio-Inspired Goal-Directed Cognitive Map Model for Robot Navigation and Exploration</a> 
 - <a href="https://ieeexplore.ieee.org/document/10323440" target="_blank">Bio-Inspired Intelligence-Based Multi-Agent Navigation with Safety-Aware Considerations</a> 
-- <a href="https://link.springer.com/chapter/10.1007/978-3-031-09726-3_1" target="_blank">A Bio-Inspired Neural Network Approach to Robot Navigation and Mapping with Nature-Inspired Algorithms</a> 
+- <a href="https://link.springer.com/chapter/10.1007/978-3-031-09726-3_1" target="_blank">A Bio-Inspired Neural Network Approach to Robot Navigation and Mapping with Nature-Inspired Algorithms</a>
+- <a href="https://doi.org/10.1109/CEC65147.2025.11042975" target="_blank">A Bio-Inspired Goal-Directed Cognitive Map Approach to Robot Navigation and Mapping</a>
 
