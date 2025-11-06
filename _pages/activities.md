@@ -24,6 +24,7 @@ Conference and Session Organizer
 * Publicity Chair: 2025 International Conference on Computer Vision, Pattern Recognition and Artificial Intelligence (CVPRAI 2025)
 * Special Session Organizer: <a href="https://tingjun-lei.github.io/CEC2025_SS.github.io/" target="_blank">"Bio-inspired Intelligence and Evolutionary Computation for Robotics and Autonomous Systems"</a> on 2025 IEEE Congress on Evolutionary Computation (IEEE CEC’ 2025)
 * Special Session Organizer: <a href="https://tingjun-lei.github.io/IJCNN2025_SS.github.io/" target="_blank">"Biologically Inspired Neural Networks and Learning Systems for Robotics and Mechatronics"</a> on 2025 International Joint Conference on Neural Networks (IEEE IJCNN’ 2025)
+* Session Chair: 2025 IEEE 55th Annual Frontiers in Education (FIE) Conference
 * Session Chair: 2024 IEEE 4th Cyber Awareness and Research Symposium 2024 (IEEE CARS' 2024)
 * Special Session Organizer: "Biologically Inspired Intelligence for Mechatronics and Robotics" on 2024 International Conference on Swarm Intelligence (ICSI’ 2024)
 
