@@ -125,6 +125,12 @@ Conferences
 ======
 
 1. 
+<b>A Neural Network Approach to Image-Based Navigation and Localization<br>
+[ <a href="http://dx.doi.org/10.1109/IJCNN64981.2025.11227291" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/393463556_A_Neural_Network_Approach_to_Image-Based_Navigation_and_Localization" target="_blank">ResearchGate</a>  ]</b> <br>
+D. Short, <i><b>Tingjun Lei</b></i>, L. Liu, C. Luo, and E. Yang,
+<i>2025 International Joint Conference on Neural Networks (IJCNN)</i>,   Rome, Italy, 2025, pp. 1-6, doi: 10.1109/IJCNN64981.2025.11227291.
+
+1. 
 <b>A Bio-Inspired Goal-Directed Cognitive Map Approach to Robot Navigation and Mapping<br>
 [ <a href="http://dx.doi.org/10.1109/CEC65147.2025.11042975" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/392988207_A_Bio-Inspired_Goal-Directed_Cognitive_Map_Approach_to_Robot_Navigation_and_Mapping" target="_blank">ResearchGate</a>  ]</b> <br>
 M. Hicks, <i><b>Tingjun Lei</b></i>, C. Luo, L. Liu, and Z. Bi,
