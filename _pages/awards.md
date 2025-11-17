@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+* 2025 &nbsp; Best Paper Award  <i>("Trustworthy Cyber-Resilient Reinforcement Learning for Secure Navigation under Adversarial Attack",  2025 IEEE Cyber Awareness and Research Symposium)</i>
+
 * 2025 &nbsp; Honorable Mentions Award <i>(“A Neural Network Approach to Image-Based Navigation and Localization”, 2025 International Joint Conference on Neural Networks)</i>
+
+* 2025 &nbsp; Best Paper Award Finalist <i>("Human Activity Recognition and Biomedical Signal Classification Using Multi-Modal Deep Learning",  2025 IEEE International Midwest Symposium on Circuits and Systems)</i>
 
 * 2025 &nbsp; Early Career Scholars Award <i>(University of North Dakota)</i>
 
