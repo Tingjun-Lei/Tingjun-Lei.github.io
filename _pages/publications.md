@@ -125,6 +125,25 @@ Conferences
 ======
 
 1. 
+<b>Enhanced Biomedical Signal Processing Using Time-Frequency Analysis and Wavelet Transforms<br>
+[ <a href="http://dx.doi.org/10.1109/MWSCAS53549.2025.11244550" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/397981747_Enhanced_Biomedical_Signal_Processing_Using_Time-Frequency_Analysis_and_Wavelet_Transforms" target="_blank">ResearchGate</a>  ]</b> <br>
+J. London, <i><b>Tingjun Lei</b></i>, Y. Yuan, S. Shao, and J. Hu,
+<i>2025 IEEE 68th International Midwest Symposium on Circuits and Systems (MWSCAS)</i>,   Lansing/E. Lansing, MI, USA, 2025, pp. 463-467, doi: 10.1109/MWSCAS53549.2025.11244550.
+
+1. 
+<b>Human Activity Recognition and Biomedical Signal Classification Using Multi-Modal Deep Learning<br>
+[ <a href="http://dx.doi.org/10.1109/MWSCAS53549.2025.11244504" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/397980218_Human_Activity_Recognition_and_Biomedical_Signal_Classification_Using_Multi-Modal_Deep_Learning" target="_blank">ResearchGate</a>  ]</b> <br>
+J. London, <i><b>Tingjun Lei</b></i>,  C. Luo, and Y. Yuan,
+<i>2025 IEEE 68th International Midwest Symposium on Circuits and Systems (MWSCAS)</i>,   Lansing/E. Lansing, MI, USA, 2025, pp. 676-680, doi: 10.1109/MWSCAS53549.2025.11244504.
+
+1. 
+<b>An Engineering Solution to Measure and Simulate Induced Voltage and Current on De-energized Transmission Lines<br>
+[ <a href="http://dx.doi.org/10.1109/NAPS66256.2025.11272417" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/394846334_An_Engineering_Solution_to_Measure_and_Simulate_Induced_Voltage_and_Current_on_De-energized_Transmission_Lines" target="_blank">ResearchGate</a>  ]</b> <br>
+C. Maduka, L. Gong, T. Field, J. Yousif, A. A. Eldek,  and, and <i><b>Tingjun Lei</b></i>,
+<i>2025 57th North American Power Symposium (NAPS)</i>,   Storrs, CT, USA, 2025, pp. 1-6, doi: 10.1109/NAPS66256.2025.11272417.
+
+
+1. 
 <b>A Neural Network Approach to Image-Based Navigation and Localization<br>
 [ <a href="http://dx.doi.org/10.1109/IJCNN64981.2025.11227291" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/393463556_A_Neural_Network_Approach_to_Image-Based_Navigation_and_Localization" target="_blank">ResearchGate</a>  ]</b> <br>
 D. Short, <i><b>Tingjun Lei</b></i>, L. Liu, C. Luo, and E. Yang,
