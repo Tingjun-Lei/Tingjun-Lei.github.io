@@ -123,6 +123,11 @@ T. Sellers, <i><b>Tingjun Lei</b></i>, C. Luo, G.E. Jan, and J. Ma,
 
 Conferences
 ======
+1. 
+<b>Advanced Multi-Target Navigation Using ADD-RRVS with Double Q-Learning<br>
+[ <a href="http://dx.doi.org/10.1109/ICIA64617.2025.11277782" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/398608731_Advanced_Multi-Target_Navigation_Using_ADD-RRVS_with_Double_Q-Learning" target="_blank">ResearchGate</a>  ]</b> <br>
+L. Dela Cruz, <i><b>Tingjun Lei</b></i>, C. Luo, Z. Bi and G. E. Jan,
+<i>2025 International Conference on Information and Automation (ICIA)</i>,   Lanzhou, China, 2025,  pp. 448-453, doi: 10.1109/ICIA64617.2025.11277782.
 
 1. 
 <b>Enhanced Biomedical Signal Processing Using Time-Frequency Analysis and Wavelet Transforms<br>
