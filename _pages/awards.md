@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-* 2025 &nbsp; Best Paper Award  <i>("Trustworthy Cyber-Resilient Reinforcement Learning for Secure Navigation under Adversarial Attack",  2025 IEEE Cyber Awareness and Research Symposium)</i>
+* 2025 &nbsp; Best Paper Award  [<i>"Trustworthy Cyber-Resilient Reinforcement Learning for Secure Navigation under Adversarial Attack",  2025 IEEE Cyber Awareness and Research Symposium (IEEE CARS 2025)</i>]
 
-* 2025 &nbsp; Best Paper Award Finalist <i>["A Neural Field Approach to Robot Navigation with Brain-Inspired Goal-Directed Cognitive Maps",  <a href="https://intellrobot.com/volinfo/341" target="_blank">2025 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2025)</a> ]</i>
+* 2025 &nbsp; Best Paper Award Finalist [<i>"A Neural Field Approach to Robot Navigation with Brain-Inspired Goal-Directed Cognitive Maps",  <a href="https://www.robio2025.org/h-col-107.html" target="_blank">2025 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2025)</a> </i>]
 
-* 2025 &nbsp; Honorable Mentions Award <i>(“A Neural Network Approach to Image-Based Navigation and Localization”, 2025 International Joint Conference on Neural Networks)</i>
+* 2025 &nbsp; Honorable Mentions Award [<i>“A Neural Network Approach to Image-Based Navigation and Localization”, <a href="https://2025.ijcnn.org/program/awards" target="_blank">2025 International Joint Conference on Neural Networks (IJCNN)</a> </i>]
 
-* 2025 &nbsp; Best Paper Award Finalist <i>("Human Activity Recognition and Biomedical Signal Classification Using Multi-Modal Deep Learning",  2025 IEEE International Midwest Symposium on Circuits and Systems)</i>
+* 2025 &nbsp; Best Paper Award Finalist [<i>"Human Activity Recognition and Biomedical Signal Classification Using Multi-Modal Deep Learning",  2025 IEEE International Midwest Symposium on Circuits and Systems (IEEE MWSCAS)</i>]
 
 * 2025 &nbsp; Early Career Scholars Award <i>(University of North Dakota)</i>
 
