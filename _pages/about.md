@@ -32,6 +32,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [01/2026] Tingjun received UND’s <b>Early Career Scholars Program (ECSP) Award</b> to support our Multi-Robot Exploration and Inspection research. Thanks, UND!
+
 - [12/2025] Tingjun organized the Special Issue <a href="https://www.techscience.com/cmc/special_detail/intrusion-detection" target="_blank">"Advances in Intrusion Detection and Prevention Systems"</a> in   <i>Computers, Materials & Continua</i>!
 
 - [11/2025] Our paper "Trustworthy Cyber-Resilient Reinforcement Learning for Secure Navigation under Adversarial Attack" has received the <strong style="color: red;">Best Paper Award</strong> at <b>IEEE CARS 2025</b>. Congratulations, Ashwin!
