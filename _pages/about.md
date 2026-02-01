@@ -32,6 +32,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [02/2026] Tingjun was appraised as Outstanding Reviewer of <i>Biomimetic Intelligence and Robotics</i>! in 2025!
+
 - [01/2026] Tingjun received UND’s <b>Early Career Scholars Program (ECSP) Award</b> to support our Multi-Robot Adaptive Exploration and Inspection research. Thanks, UND!
 
 - [12/2025] Tingjun organized the Special Issue <a href="https://www.techscience.com/cmc/special_detail/intrusion-detection" target="_blank">"Advances in Intrusion Detection and Prevention Systems"</a> in   <i>Computers, Materials & Continua</i>!
