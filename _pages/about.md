@@ -32,6 +32,12 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [04/2026] Tingjun received <b>ND NASA EPSCoR Research Grant</b> to support our Digital Twin-based Multi-Agent Detection research. Thanks, NASA!
+
+- [03/2026] Our two papers has been accepted by <b>IEEE WCCI 2026</b>. Congratulations, Justin and Matthew!
+
+- [03/2026] Our paper "Generative Adversarial Networks for Precision Animal Management: A Review" has been accepted by <i>Journal of the American Society of Agricultural and Biological Engineers</i>!
+
 - [02/2026] Tingjun was appraised as Outstanding Reviewer of <i>Biomimetic Intelligence and Robotics</i> in 2025!
 
 - [01/2026] Our paper "Human-Autonomy Teaming in Robot Navigation Using Bio-Inspired Approach for Search and Rescue" has been accepted by <strong style="color: black;">IEEE Transactions on Human Machine Systems</strong>!
