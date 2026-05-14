@@ -32,6 +32,8 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [05/2026] Our paper "Impact of GNSS Signal Loss on UAV Trajectory Prediction with Multi-Modal Deep Learning Models" has received the <strong style="color: red;">Best of Track Paper Award</strong> at <b>ICNS 2026</b>. Congratulations, Team!
+
 - [04/2026] Tingjun received <b>ND NASA EPSCoR Research Grant</b> to support our Digital Twin-based Multi-Agent Detection research. Thanks, NASA!
 
 - [03/2026] Our two papers has been accepted by <b>IEEE WCCI 2026</b>. Congratulations, Justin and Matthew!
