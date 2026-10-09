@@ -32,9 +32,17 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [10/2026] Tingjun has been included in the <b>Stanford/Elsevier Top 2% Scientists</b> List (2026)!
+
+- [10/2026] Our paper "Digital Twin-Driven Congestion-Aware Route Planning for Intelligent Transportation Systems" has been accepted by <strong style="color: black;">Intelligent Systems with Applications</strong>. Congratulations, Justin!
+
+- [08/2026] Our paper "Federated Cybersecurity Testbed as a Service (FCTaaS): A Framework to Federate Cybersecurity Testbeds" has been accepted by <strong style="color: black;">Computers, Materials and Continua</strong>!
+
 - [07/2026] Our paper "Graph-Driven Multi-Robot Coordination with Situational Awareness for Hospital Service Robotics" has been accepted by <strong style="color: black;">Expert Systems with Applications</strong>. Congratulations, Samuel!
 
 - [05/2026] Our paper "Impact of GNSS Signal Loss on UAV Trajectory Prediction with Multi-Modal Deep Learning Models" has received the <strong style="color: red;">Best of Track Paper Award</strong> at <b>ICNS 2026</b>. Congratulations, Team!
+
+- [05/2026] Our paper "Intelligent Anomaly Understanding and Response for Water Cyber-Physical Systems" <b>ICANN 2026</b>!
 
 - [04/2026] Tingjun received <b>ND NASA EPSCoR Research Grant</b> to support our Digital Twin-based Multi-Agent Detection research. Thanks, NASA!
 
