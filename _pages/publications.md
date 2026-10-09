@@ -15,6 +15,40 @@ author_profile: true
 
 Journals
 ======
+
+1. 
+<b>Graph-Driven Multi-Robot Coordination With Situational Awareness for Hospital Service Robotics<br>
+[ <a href="https://doi.org/10.1016/j.eswa.2026.133787" target="_blank">Link</a>  ]</b><br>
+<i><b>Tingjun Lei</b></i>, S. Steen, C. Luo, J. Chen, and Y. Yuan, 
+<i>Expert Systems with Applications</i>, Jan. 2027, doi:10.1016/j.eswa.2026.133787.
+
+
+1. 
+<b>Federated Cybersecurity Testbed as a Service (FCTaaS): A Framework to Federate Cybersecurity Testbeds<br>
+[ <a href="https://doi.org/10.32604/cmc.2026.084915" target="_blank">Link</a>  ]</b><br>
+J. Dean, Y. Lin, J. Encinas, I. Almazyad, Q. Shi, Z. Yang, S. Satam, <i><b>Tingjun Lei</b></i>, J. Zhang, S. Shao, S. Hariri, and P. Satam, 
+<i>Computers, Materials and Continua</i>, Sep. 2026, doi:10.32604/cmc.2026.084915.
+
+
+1. 
+<b>Human-Autonomy Teaming in Robot Navigation Using Bioinspired Approach for Search and Rescue<br>
+[ <a href="https://doi.org/10.1109/THMS.2026.3651248" target="_blank">Link</a>  ]</b><br>
+T. Sellers, <i><b>Tingjun Lei</b></i>, C. Luo, E. Yang and Z. Bi, 
+<i>IEEE Transactions on Human-Machine Systems</i>, Apr. 2026, doi:10.1109/THMS.2026.3651248.
+
+1. 
+<b>Generative Adversarial Networks for Precision Animal Management: A Review<br>
+[ <a href="https://doi.org/10.13031/ja.16507" target="_blank">Link</a>]</b><br>
+G. Li, <i><b>Tingjun Lei</b></i>, B. Ji, and A. Banakar, 
+<i>Journal of the American Society of Agricultural and Biological Engineers</i>, Feb. 2026, doi:10.13031/ja.16507.
+
+1. 
+<b>A Dynamically Updating Graph-Based Navigation Scheme for Autonomous Vehicles<br>
+[ <a href="https://doi.org/10.53941/sai.2026.100001" target="_blank">Link</a>  ]</b><br>
+T. Sellers, <i><b>Tingjun Lei</b></i>, C. Luo,  Z. Bi, and G. E. Jan, 
+<i>Sensors and AI</i>, Jan. 2026, doi:10.53941/sai.2026.100001.
+
+
 1. 
 <b>A Bio-Inspired Goal-Directed Cognitive Map Model for Robot Navigation and Exploration<br>
 [ <a href="https://doi.org/10.1109/TCDS.2025.3552085" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/389954544_A_Bio-Inspired_Goal-Directed_Cognitive_Map_Model_for_Robot_Navigation_and_Exploration" target="_blank">ResearchGate</a>  ]</b><br>
