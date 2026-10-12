@@ -155,44 +155,56 @@ T. Sellers, <i><b>Tingjun Lei</b></i>, C. Luo, G.E. Jan, and J. Ma,
  <i>Intelligent Systems with Applications</i>, vol. 12, p. 200053, Nov. 2021, doi: 10.1016/j.iswa.2021.200053. 
 
 
-Conferences
+Selected Conferences
 ======
-1. 
-<b>Advanced Multi-Target Navigation Using ADD-RRVS with Double Q-Learning<br>
-[ <a href="http://dx.doi.org/10.1109/ICIA64617.2025.11277782" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/398608731_Advanced_Multi-Target_Navigation_Using_ADD-RRVS_with_Double_Q-Learning" target="_blank">ResearchGate</a>  ]</b> <br>
-L. Dela Cruz, <i><b>Tingjun Lei</b></i>, C. Luo, Z. Bi and G. E. Jan,
-<i>2025 International Conference on Information and Automation (ICIA)</i>,   Lanzhou, China, 2025,  pp. 448-453, doi: 10.1109/ICIA64617.2025.11277782.
 
 1. 
-<b>Enhanced Biomedical Signal Processing Using Time-Frequency Analysis and Wavelet Transforms<br>
-[ <a href="http://dx.doi.org/10.1109/MWSCAS53549.2025.11244550" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/397981747_Enhanced_Biomedical_Signal_Processing_Using_Time-Frequency_Analysis_and_Wavelet_Transforms" target="_blank">ResearchGate</a>  ]</b> <br>
-J. London, <i><b>Tingjun Lei</b></i>, Y. Yuan, S. Shao, and J. Hu,
-<i>2025 IEEE 68th International Midwest Symposium on Circuits and Systems (MWSCAS)</i>,   Lansing/E. Lansing, MI, USA, 2025, pp. 463-467, doi: 10.1109/MWSCAS53549.2025.11244550.
+<b>A Fuzzy-Probabilistic Framework for NPC Emotion Modeling with Interpretability and Variability<br>
+[ <a href="http://doi.org/10.1109/FUZZ69877.2026.11626414" target="_blank">Link</a>  ]</b> <br>
+M. Phillips, <i><b>Tingjun Lei</b></i>,   C. Luo, E. Kim, and S. Shao,  
+<i>2026 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)</i>,   Maastricht, Netherlands, 2026, pp. 1-6,   doi: doi.org/10.1109/FUZZ69877.2026.11626414. 
+
+1. 
+<b>Impact of GNSS Signal Loss on UAV Trajectory Prediction with Multi-Modal Deep Learning Models<br>
+[ <a href="http://doi.org/10.1109/ICNS69853.2026.11570329" target="_blank">Link</a>  ]</b> <br>
+M. Abdelsalam, I. Boukabou, R. Amin, A. Devanga, <i><b>Tingjun Lei</b></i>,  and N. Kaabouch,
+<i>2026 Integrated Communications, Navigation and Surveillance Conference (ICNS)</i>,   Herndon, VA, USA, 2026, pp. 1-7,  doi: doi.org/10.1109/ICNS69853.2026.11570329. <b> <span style="font-weight: bold; color: red;">(Best Paper Award)</span></b> 
+
+1. 
+<b>Deep Reinforcement Learning for USV Navigation in Dynamic Ocean Environments<br>
+[ <a href="http://doi.org/10.1109/ROBIO66223.2025.11375987" target="_blank">Link</a>  ]</b> <br>
+A. Devanga, <i><b>Tingjun Lei</b></i>,   J. Hu, C. Luo, and S. Shao, 
+<i>2025 IEEE International Conference on Robotics and Biomimetics (ROBIO)</i>,   Chengdu, China, 2025, pp.  1024-1029, doi: 10.1109/ROBIO66223.2025.11375987. 
+
+1. 
+<b>A Neural Field Approach to Robot Navigation with Brain-Inspired Goal-Directed Cognitive Maps<br>
+[ <a href="http://doi.org/10.1109/ROBIO66223.2025.11377267" target="_blank">Link</a>  ]</b> <br>
+M. Hicks, <i><b>Tingjun Lei</b></i>, T. Sellers, C. Luo, and E. Yang,
+<i>2025 IEEE International Conference on Robotics and Biomimetics (ROBIO)</i>,   Chengdu, China, 2025, pp. 269--276, doi: 10.1109/ROBIO66223.2025.11377267. <b> <span style="font-weight: bold; color: red;">(Best Paper Finalist)</span></b> 
+
+1. 
+<b>Trustworthy Cyber-Resilient Reinforcement Learning for Secure Navigation under Adversarial Attack<br>
+[ <a href="http:///doi.org/10.1109/CARS67163.2025.11337781" target="_blank">Link</a>  ]</b> <br>
+A. Devanga, <i><b>Tingjun Lei</b></i>,  J. Hu, J. Chen, and C. Luo,
+<i>2025 IEEE Cyber Awareness and Research Symposium (CARS)</i>,  Grand Forks, ND, USA, 2025, pp. 1--6,  doi: 10.1109/CARS67163.2025.11337781. <b> <span style="font-weight: bold; color: red;">(Best Paper Award)</span></b> 
 
 1. 
 <b>Human Activity Recognition and Biomedical Signal Classification Using Multi-Modal Deep Learning<br>
 [ <a href="http://dx.doi.org/10.1109/MWSCAS53549.2025.11244504" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/397980218_Human_Activity_Recognition_and_Biomedical_Signal_Classification_Using_Multi-Modal_Deep_Learning" target="_blank">ResearchGate</a>  ]</b> <br>
 J. London, <i><b>Tingjun Lei</b></i>,  C. Luo, and Y. Yuan,
-<i>2025 IEEE 68th International Midwest Symposium on Circuits and Systems (MWSCAS)</i>,   Lansing/E. Lansing, MI, USA, 2025, pp. 676-680, doi: 10.1109/MWSCAS53549.2025.11244504.
-
-1. 
-<b>An Engineering Solution to Measure and Simulate Induced Voltage and Current on De-energized Transmission Lines<br>
-[ <a href="http://dx.doi.org/10.1109/NAPS66256.2025.11272417" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/394846334_An_Engineering_Solution_to_Measure_and_Simulate_Induced_Voltage_and_Current_on_De-energized_Transmission_Lines" target="_blank">ResearchGate</a>  ]</b> <br>
-C. Maduka, L. Gong, T. Field, J. Yousif, A. A. Eldek,  and, and <i><b>Tingjun Lei</b></i>,
-<i>2025 57th North American Power Symposium (NAPS)</i>,   Storrs, CT, USA, 2025, pp. 1-6, doi: 10.1109/NAPS66256.2025.11272417.
-
+<i>2025 IEEE 68th International Midwest Symposium on Circuits and Systems (MWSCAS)</i>,   Lansing/E. Lansing, MI, USA, 2025, pp. 676-680, doi: 10.1109/MWSCAS53549.2025.11244504. <b> <span style="font-weight: bold; color: red;">(Best Paper Finalist)</span></b> 
 
 1. 
 <b>A Neural Network Approach to Image-Based Navigation and Localization<br>
 [ <a href="http://dx.doi.org/10.1109/IJCNN64981.2025.11227291" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/393463556_A_Neural_Network_Approach_to_Image-Based_Navigation_and_Localization" target="_blank">ResearchGate</a>  ]</b> <br>
 D. Short, <i><b>Tingjun Lei</b></i>, L. Liu, C. Luo, and E. Yang,
-<i>2025 International Joint Conference on Neural Networks (IJCNN)</i>,   Rome, Italy, 2025, pp. 1-6, doi: 10.1109/IJCNN64981.2025.11227291.
+<i>2025 International Joint Conference on Neural Networks (IJCNN)</i>,   Rome, Italy, 2025, pp. 1-6, doi: 10.1109/IJCNN64981.2025.11227291. <b> <span style="font-weight: bold; color: red;">(Honorable Mentions Award)</span></b> 
 
 1. 
 <b>A Bio-Inspired Goal-Directed Cognitive Map Approach to Robot Navigation and Mapping<br>
 [ <a href="http://dx.doi.org/10.1109/CEC65147.2025.11042975" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/392988207_A_Bio-Inspired_Goal-Directed_Cognitive_Map_Approach_to_Robot_Navigation_and_Mapping" target="_blank">ResearchGate</a>  ]</b> <br>
 M. Hicks, <i><b>Tingjun Lei</b></i>, C. Luo, L. Liu, and Z. Bi,
-<i>2025 IEEE Congress on Evolutionary Computation (CEC)</i>,   Hangzhou, China, 2025, pp. 1-6, doi: 10.1109/CEC65147.2025.11042975.
+<i>2025 IEEE Congress on Evolutionary Computation (CEC)</i>,   Hangzhou, China, 2025, pp. 1-6, doi: 10.1109/CEC65147.2025.11042975. 
 
 1. 
 <b>A Moss Growth Optimization Approach to Robot Path Planning<br>
@@ -200,15 +212,11 @@ M. Hicks, <i><b>Tingjun Lei</b></i>, C. Luo, L. Liu, and Z. Bi,
 S. Steen, <i><b>Tingjun Lei</b></i>, C. Luo, S. Shao, and L. Gong,
 <i>2025 IEEE Congress on Evolutionary Computation (CEC)</i>,   Hangzhou, China, 2025, pp. 1-4, doi: 10.1109/CEC65147.2025.11043085.
 
-
 1. 
 <b>Optimal Multi-Target Navigation via Graph-Based Algorithms in Complex Environments<br>
 [ <a href="http://dx.doi.org/10.1109/ISIE54533.2024.10595682" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/382417102_Optimal_Multi-target_Navigation_via_Graph-based_Algorithms_in_Complex_Environments" target="_blank">ResearchGate</a>  ]</b> <br>
 B. Black, T. Sellers, <i><b>Tingjun Lei</b></i>,  C. Luo, and D.W. Carruth,
 <i>33rd International Symposium on Industrial Electronics (ISIE)</i>,  Ulsan,  Republic of Korea, 2024, pp. 1-6, doi: 10.1109/ISIE54533.2024.10595682.
-
-
-
 
 1. 
 <b>Enhancing Human-Robot Cohesion through HAT Methods: A Crowd-Avoidance Model for Safety Aware Navigation<br>
@@ -216,103 +224,11 @@ B. Black, T. Sellers, <i><b>Tingjun Lei</b></i>,  C. Luo, and D.W. Carruth,
 T. Sellers, <i><b>Tingjun Lei</b></i>,  C. Luo, L. Liu, and D.W. Carruth,
  <i>4th IEEE International Conference on Human-Machine Systems (ICHMS)</i>, Toronto, ON, Canada, 2024, pp. 1-6, doi: 10.1109/ICHMS59971.2024.10555725. 
 
-1. 
-<b>Developing Computational Intelligence Curriculum Materials to Advance Student Learning for Robot Control and Optimization<br>
-[ <a href="https://peer.asee.org/developing-computational-intelligence-curriculum-materials-to-advance-student-learning-for-robot-control-and-optimization" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/382873831_Developing_Computational_Intelligence_Curriculum_Materials_to_Advance_Student_Learning_for_Robot_Control_and_Optimization" target="_blank">ResearchGate</a>  ]</b> <br>
-<i><b>Tingjun Lei</b></i>, T. Sellers,  C. Luo, Z. Bi,  and G.E. Jan,
- <i>2024 ASEE Annual Conference & Exposition</i>, Portland, OR, USA, 2024, doi: 10.18260/1-2--47162.
-
-1. 
-<b>An Enhanced Learning Method Used for Datapath Design Topics in Computer Engineering Curriculum<br>
-[ <a href="https://peer.asee.org/an-enhanced-learning-method-used-for-datapath-design-topics-in-computer-engineering-curriculum" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/382860660_An_Enhanced_Learning_Method_Used_for_Datapath_Design_Topics_in_Computer_Engineering_Curriculum" target="_blank">ResearchGate</a>  ]</b> <br>
-<i><b>Tingjun Lei</b></i>, T. Sellers,  C. Luo, G.E. Jan, and Z. Bi,
- <i>2024 ASEE Annual Conference & Exposition</i>, Portland, OR, USA, 2024, doi: 10.18260/1-2--46551. 
-
-1. 
-<b>Enhancing Student Learning in Robot Path Planning Optimization through Graph-Based Methods<br>
-[ <a href="https://peer.asee.org/enhancing-student-learning-in-robot-path-planning-optimization-through-graph-based-methods" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/382875189_Enhancing_Student_Learning_in_Robot_Path_Planning_Optimization_through_Graph-Based_Methods" target="_blank">ResearchGate</a>  ]</b> <br>
-T. Sellers, <i><b>Tingjun Lei</b></i>,   C. Luo, Z. Bi,  and G.E. Jan,
- <i>2024 ASEE Annual Conference & Exposition</i>, Portland, OR, USA, 2024, doi: 10.18260/1-2--47317. <b> <span style="font-weight: bold; color: red;">(Best Paper Award)</span></b> 
-
-1. 
-<b>A Hybrid Pedagogy through Topical Guide Objective to Enhance Student Learning in MIPS Instruction Set Design<br>
-[ <a href="https://peer.asee.org/a-hybrid-pedagogy-through-topical-guide-objective-to-enhance-student-learning-in-mips-instruction-set-design" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/382864716_A_Hybrid_Pedagogy_through_Topical_Guide_Objective_to_Enhance_Student_Learning_in_MIPS_Instruction_Set_Design" target="_blank">ResearchGate</a>  ]</b> <br>
-T. Sellers, <i><b>Tingjun Lei</b></i>,  C. Luo, G.E. Jan, and Z. Bi,
- <i>2024 ASEE Annual Conference & Exposition</i>, Portland, OR, USA, 2024, doi: 10.18260/1-2--46448.
-
-
-
-
-
-
-
-
-1.  
-<b>Multi-Robot Navigation Using Improved RRT*-Smart With Digital Twin Technology<br>
-[ <a href="http://dx.doi.org/10.1117/12.3013872" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/381267168_Multi-robot_navigation_using_improved_RRT-smart_with_digital_twin_technology" target="_blank">ResearchGate</a>  ]</b> <br>
-E. Riser, T. Sellers, <i><b>Tingjun Lei</b></i>,  P. Chintam, and C. Luo,
- <i>Proc. SPIE, Autonomous Systems: Sensors, Processing, and Security for Ground, Air, Sea, and Space Vehicles and Infrastructure 2024</i>, Vol. 13052, pp. 114-125. SPIE., doi: 10.1117/12.3013872.
-
-
-1. 
-<b>Centroid-based Cell Decomposition Robot Path Planning Algorithm Integrated with a Bio-Inspired Approach<br>
-[ <a href="http://dx.doi.org/10.1117/12.3013866" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/381267170_Centroid-based_cell_decomposition_robot_path_planning_algorithm_integrated_with_a_bio-inspired_approach" target="_blank">ResearchGate</a>  ]</b> <br>
-H. Rogers, T. Sellers, <i><b>Tingjun Lei</b></i>,  C.R. Hudson, and C. Luo, 
- <i>Proc. SPIE, Unmanned Systems Technology XXVI</i>, Vol. 13052, pp. 1305507-1. SPIE., doi: 10.1117/12.3013866. 
-
-
-1. 
-<b>Synergizing Graph-Based Methods With Biologically Inspired Algorithms For Enhanced Robot Path Planning Efficiency<br>
-[ <a href="https://doi.org/10.1117/12.3013870" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/381267173_Synergizing_graph-based_methods_with_biologically_inspired_algorithms_for_enhanced_robot_path_planning_efficiency" target="_blank">ResearchGate</a>  ]</b> <br>
-T. Sellers, <i><b>Tingjun Lei</b></i>, D.W. Carruth, and C. Luo, 
- <i>Proc. SPIE 13500, Unmanned Systems Technology XXVI</i>, Vol. 13055, pp. 52-64. SPIE., doi: 10.1117/12.3013870. 
-
-
-
-1.  
-<b>Multi-Robot Path Planning Using Potential Field-Based Simulated Annealing Approach<br>
-[ <a href="https://doi.org/10.1117/12.3013871" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/381274386_Multi-robot_path_planning_using_potential_field-based_simulated_annealing_approach" target="_blank">ResearchGate</a>  ]</b> <br>
-S. Alarabi, <i><b>Tingjun Lei</b></i>, M. Santora, C. Luo, and T. Sellers, 
- <i>Proc. SPIE 13500, Unmanned Systems Technology XXVI</i>, Vol. 13055, pp. 102-117. SPIE., doi: 10.1117/12.3013871. 
-
-
-
-
-1. 
-<b>Autonomous Multi-Robot Allocation and Formation Control for Remote Sensing in Environmental Exploration<br>
-[ <a href="http://dx.doi.org/10.1117/12.2663894" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/371571146_Autonomous_Multi-Robot_Allocation_and_Formation_Control_for_Remote_Sensing_in_Environmental_Exploration" target="_blank">ResearchGate</a>  ]</b> <br>
-T. Sellers, <i><b>Tingjun Lei</b></i>, H. Rogers, D.W. Carruth, and C. Luo,  
- <i>Proc. SPIE 12540, Autonomous Systems: Sensors, Processing and Security for Ground, Air, Sea, and Space Vehicles and Infrastructure</i>, 125400U, Orlando, FL, USA, 2023, doi: 10.1117/12.2663894. 
-
-
-
-1. 
-<b>Sensor-Based Multi-Waypoint Autonomous Robot Navigation with Graph-Based Models<br>
-[ <a href="http://dx.doi.org/10.1117/12.2663830" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/371571060_Sensor-Based_Multi-Waypoint_Autonomous_Robot_Navigation_with_Graph-Based_Models" target="_blank">ResearchGate</a>  ]</b> <br>
- H. Rogers, T. Sellers, <i><b>Tingjun Lei</b></i>, D.W. Carruth, and C. Luo, 
- <i>Proc. SPIE 12540, Autonomous Systems: Sensors, Processing and Security for Ground, Air, Sea, and Space Vehicles and Infrastructure</i>, 125400T, Orlando, FL, USA, 2023, doi: 10.1117/12.2663830.
-
-
-1. 
-<b>Deep Learning-Based Heterogeneous System for Autonomous Navigation<br>
-[ <a href="http://dx.doi.org/10.1117/12.2665844" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/371571051_Deep_Learning-based_Heterogeneous_System_for_Autonomous_Navigation" target="_blank">ResearchGate</a>  ]</b> <br>
-T. Sellers, <i><b>Tingjun Lei</b></i>, H. Rogers, D.W. Carruth, and C. Luo, 
- <i>Proc. SPIE 12539, Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping VIII</i>, 125390F, Orlando, FL, USA, 2023, doi: 10.1117/12.2665844. 
-
-
 1.  
 <b>Human-Autonomy Teaming-Based Robot Informative Path Planning and Mapping Algorithms with Tree Search Mechanism<br>
 [ <a href="https://ieeexplore.ieee.org/abstract/document/9980708" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/366434373_Human-Autonomy_Teaming-Based_Robot_Informative_Path_Planning_and_Mapping_Algorithms_with_Tree_Search_Mechanism?_sg%5B0%5D=FahihC3GVvXVTK4odQX8kznxZSmbGKHGU34qTZdq3Wkuf83OW4H3SW9ER4C-4IgX_M9t5Uf9TLBWGnFpeppdgAIqNrqX6MfFoHCG5JZ9.KhXCjqG0p4PAFbRu0D49geQHB3sE82ELOOf3SGyJSjp-MUgaXlZIUTQB8whZxuM6CuHz4KShiOBov_4OplgQEw" target="_blank">ResearchGate</a>  ]</b> <br>
  <i><b>Tingjun Lei</b></i>, P. Chintam, D.W. Carruth, G.E. Jan, and C. Luo, 
  <i>2022 IEEE 3rd International Conference on Human-Machine Systems (IEEE ICHMS)</i>, Orlando, FL, USA, 2022, pp. 1-6, doi: 10.1109/ICHMS56717.2022.9980708. 
-
-
-
-1. 
-<b>Multi-Robot Directed Coverage Path Planning in Row-Based Environments<br>
-[ <a href="https://ieeexplore.ieee.org/document/9939281" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/365308012_Multi-Robot_Directed_Coverage_Path_Planning_in_Row-based_Environments" target="_blank">ResearchGate</a>  ]</b> <br>
- <i><b>Tingjun Lei</b></i>, P. Chintam, C. Luo, and S. Rahimi, 
- <i>2022 IEEE 5th International Conference on Artificial Intelligence and Knowledge Engineering (IEEE AIKE)</i>, Laguna Hills, CA, USA, 2022, pp. 114-121, doi: 10.1109/AIKE55402.2022.00025. 
 
 
 1.  
@@ -322,29 +238,6 @@ T. Sellers, <i><b>Tingjun Lei</b></i>, H. Rogers, D.W. Carruth, and C. Luo,
  <i>2022 13th International Conference on Swarm Intelligence (ICSI 2022)</i>, Xi’an, China, July 15–19,
 2022, Proceedings, Part II (pp. 3-16). Cham: Springer International Publishing, doi:10.1007/978-3-031-09726-3_1. <b> <span style="font-weight: bold; color: red;">(Best Paper Award)</span></b> 
 
-
-1. 
-<b>Multi-Objective Optimization Robot Navigation Through a Graph-Driven PSO Mechanism<br>
-[ <a href="https://link.springer.com/chapter/10.1007/978-3-031-09726-3_7" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/361539602_Multi-Objective_Optimization_Robot_Navigation_Through_a_Graph-Driven_PSO_Mechanism" target="_blank">ResearchGate</a>  ]</b> <br>
- T. Sellers, <i><b>Tingjun Lei</b></i>,  G.E. Jan, Y. Wang, and C. Luo, 
- <i>2022 13th International Conference on Swarm Intelligence (ICSI 2022)</i>, Xi’an, China, July 15–19,
-2022, Proceedings, Part II (pp. 66-77). Cham: Springer International Publishing, doi:10.1007/978-3-031-09726-3_7. 
-
-
-1. 
-<b>A Nature-Inspired Algorithm to Adaptively Safe Navigation of a Covid-19 Disinfection Robot<br>
-[ <a href="https://doi.org/10.1007/978-3-030-89134-3_12" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/355374868_A_Nature-Inspired_Algorithm_to_Adaptively_Safe_Navigation_of_a_Covid-19_Disinfection_Robot" target="_blank">ResearchGate</a>  ]</b> <br>
- <i><b>Tingjun Lei</b></i>, T. Sellers, S. Rahimi, S. Cheng, and C. Luo, 
- <i>2021 14th International Conference on Intelligent Robotics and Applications (ICIRA 2021)</i>, Lecture Notes in Computer Science, vol. 13015, pp. 123-134. Springer, Cham. doi: 10.1007/978-3-030-89134-3_12. 
-
-
-1.  
-<b>Immune System Algorithms to Environmental Exploration of Robot Navigation and Mapping<br>
-[ <a href="https://doi.org/10.1007/978-3-030-78811-7_7" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/353051092_Immune_System_Algorithms_to_Environmental_Exploration_of_Robot_Navigation_and_Mapping" target="_blank">ResearchGate</a>  ]</b> <br>
-E. Jayaraman, <i><b>Tingjun Lei</b></i>, C. Luo, and S. Chen,   
-<i>2021 12th International Conference on Swarm Intelligence (ICSI 2021)</i>, Lecture Notes in Computer Science, vol. 12690. pp. 73-84. Springer, Cham. doi: 10.1007/978-3-030-78811-7_7.
-
-
 1. 
 <b>A Graph-Based Ant-like Approach to Optimal Path Planning<br>
 [ <a href="https://doi.org/10.1109/CEC48606.2020.9185628" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/343252630_A_Graph-based_Ant-like_Approach_to_Optimal_Path_Planning" target="_blank">ResearchGate</a>  ]</b> <br>
@@ -352,24 +245,7 @@ E. Jayaraman, <i><b>Tingjun Lei</b></i>, C. Luo, and S. Chen,
 <i>2020 IEEE Congress on Evolutionary Computation (IEEE CEC 2020)</i>, Glasgow, UK, 2020, pp. 1-6, doi:10.1109/CEC48606.2020.9185628. 
 
 
-1. 
-<b> Trace-guided Safety-aware Robot Navigation<br>
-[ <a href="https://www.researchgate.net/publication/343253820_Trace-guided_Safety-aware_Robot_Navigation" target="_blank">ResearchGate</a>  ]</b> <br>
-<i><b>Tingjun Lei</b></i>, C. Luo, J.E. Ball, and Z. Bi,  
-<i>IEEE SoutheastCon 2020</i>.
 
 
-1. 
-<b> Variable Speed Robot Navigation by an ACO Approach<br>
-[ <a href="https://doi.org/10.1007/978-3-030-26369-0_22" target="_blank">Link</a>  ][ <a href="https://www.researchgate.net/publication/334552193_Variable_Speed_Robot_Navigation_by_an_ACO_Approach" target="_blank">ResearchGate</a>  ]</b> <br>
-<i><b>Tingjun Lei</b></i>, C. Luo, G.E. Jan, and K. Fung,   
-<i>2019 10th International Conference on Swarm Intelligence (ICSI 2019)</i>, Lecture Notes in Computer Science, vol. 11655, pp. 232-242. Springer, Cham. doi: 10.1007/978-3-030-26369-0_22.
 
 
-Book Chapters
-======
-1. 
-<b> A Hybrid Fireworks Algorithm to Navigation and Mapping<br>
-[ <a href="https://doi.org/10.4018/978-1-7998-1659-1.ch010" target="_blank">Link</a> ] [ <a href="https://www.researchgate.net/publication/340664454_A_Hybrid_Fireworks_Algorithm_to_Navigation_and_Mapping" target="_blank">ResearchGate</a> ]</b> <br>
-<i><b>Tingjun Lei</b></i>, C. Luo, J.E. Ball, and Z. Bi. &nbsp;
-<i><a href="https://www.igi-global.com/book/handbook-research-fireworks-algorithms-swarm/233811?utm_source=m&utm_medium=ac&utm_campaign=bec_to_prod&utm_content=03.04.2020" target="_blank">Handbook of Research on Fireworks Algorithms and Swarm Intelligence</a></i>, pp. 213-232, December, 2019. IGI Global. doi:10.4018/978-1-7998-1659-1.ch010. 
