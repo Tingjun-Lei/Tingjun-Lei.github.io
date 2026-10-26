@@ -24,6 +24,13 @@ Journals
 
 
 1. 
+<b>Digital Twin-Driven Congestion-Aware Route Planning for Intelligent Transportation Systems<br>
+[ <a href="https://doi.org/10.1016/j.iswa.2026.200741" target="_blank">Link</a>  ]</b><br>
+<i><b>Tingjun Lei</b></i>,  K. Ye, J. London, S. Shao, J. Chen, and C. Luo 
+<i>Intelligent Systems with Applications</i>, Dec. 2026, doi:10.1016/j.iswa.2026.200741.
+
+
+1. 
 <b>Federated Cybersecurity Testbed as a Service (FCTaaS): A Framework to Federate Cybersecurity Testbeds<br>
 [ <a href="https://doi.org/10.32604/cmc.2026.084915" target="_blank">Link</a>  ]</b><br>
 J. Dean, Y. Lin, J. Encinas, I. Almazyad, Q. Shi, Z. Yang, S. Satam, <i><b>Tingjun Lei</b></i>, J. Zhang, S. Shao, S. Hariri, and P. Satam, 
