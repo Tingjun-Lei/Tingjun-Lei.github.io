@@ -32,11 +32,13 @@ Several new fully funded Ph.D. positions are available in the School of Electric
 
 News
 ======
+- [11/2026] Our paper "Advised-RRT*: Autonomous Mobile Robot Trajectory Planning Through an Advised Sampling-Based Model" has been accepted by <strong style="color: black;">IEEE Transactions on Automation Science and Engineering</strong>!
+
 - [10/2026] Tingjun has been included in the <b>Stanford/Elsevier Top 2% Scientists</b> List (2026)!
 
-- [10/2026] Our paper "Digital Twin-Driven Congestion-Aware Route Planning for Intelligent Transportation Systems" has been accepted by <strong style="color: black;">Intelligent Systems with Applications</strong>. Congratulations, Justin!
+- [10/2026] Our paper "Digital Twin-Driven Congestion-Aware Route Planning for Intelligent Transportation Systems" has been accepted by <i>Intelligent Systems with Applications</i>. Congratulations, Justin!
 
-- [08/2026] Our paper "Federated Cybersecurity Testbed as a Service (FCTaaS): A Framework to Federate Cybersecurity Testbeds" has been accepted by <strong style="color: black;">Computers, Materials and Continua</strong>!
+- [08/2026] Our paper "Federated Cybersecurity Testbed as a Service (FCTaaS): A Framework to Federate Cybersecurity Testbeds" has been accepted by <i>Computers, Materials and Continua</i>!
 
 - [07/2026] Our paper "Graph-Driven Multi-Robot Coordination with Situational Awareness for Hospital Service Robotics" has been accepted by <strong style="color: black;">Expert Systems with Applications</strong>. Congratulations, Samuel!
 
